@@ -1,0 +1,36 @@
+{
+    "subject_name": "Mathematics - I ",
+    "known_as": "Maths I",
+    "subjecet_code": "3110014",
+    "syllabus": "https://bit.ly/3r42ik0",
+    "old_paper": [
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/2U7OgBP"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3hJddMN"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3B9fl8g"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3CDz6FH"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-gNxs09LbS5I/YDSHHyu2GlI/AAAAAAAAANM/eJ7z4paHdzkcyCYF6SVdylOR_XqzOfwrACNcBGAsYHQ/s320/41ZjR0ENyCL.jpg",
+            "download_link": "https://bit.ly/2UOx9VF",
+            "alt_data": "Mathematics - I  McGrewHill"
+        }
+    ]
+}

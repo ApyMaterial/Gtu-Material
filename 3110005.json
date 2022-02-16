@@ -1,0 +1,36 @@
+{
+    "subject_name": "Basic Electrical Engineering",
+    "known_as": "BEE",
+    "subjecet_code": "3110005",
+    "syllabus": "https://bit.ly/3ATO0aa",
+    "old_paper": [
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3kpJD0I"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3epzkWu"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3fVOPpW"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3wKXAJ5"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-R8f91friPL0/YDSHzbmanpI/AAAAAAAAANc/CmDU0hLnTJ0ATpw630jokTGkCt1LADDDQCNcBGAsYHQ/s330/Screenshot_436.png",
+            "download_link": "https://bit.ly/2U8f5G3",
+            "alt_data": "Technical "
+        }
+    ]
+}

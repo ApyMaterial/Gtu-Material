@@ -1,0 +1,36 @@
+{
+    "subject_name": "Engineering Graphics & Design ",
+    "known_as": "EGD",
+    "subjecet_code": "3110013",
+    "syllabus": "https://bit.ly/2T1MYaO",
+    "old_paper": [
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3z0zGe0"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3wNLpLj"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3raMhss"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3fXXSql"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-bE2BD2IOoBE/YDSIi4XnZHI/AAAAAAAAANs/N5XW5Q871qsClrtNFHPizqFAVYYEMxSywCNcBGAsYHQ/s765/Screenshot_438.png",
+            "download_link": "https://bit.ly/3z1opKu",
+            "alt_data": "Engineering Graphics & Design Notes"
+        }
+    ]
+}
