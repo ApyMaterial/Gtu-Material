@@ -1,7 +1,7 @@
 {
     "subject_name": "Probability and Statistics",
     "known_as": "PS",
-    "subjecet_code": "PS",
+    "subjecet_code": "3130006",
     "syllabus": "https://bit.ly/3xl0rbS",
     "old_paper": [
         {
@@ -40,9 +40,9 @@
     "assignments": "",
     "Books": [
         {
-            "img": "https://1.bp.blogspot.com/-ZX-KIveYtgU/YCpzZX6dL_I/AAAAAAAAAMk/bRC-sH2JlsoFK3yu2nOzOId7kHWtECcQACNcBGAsYHQ/s528/Screenshot_392.png",
-            "download_link": "https://bit.ly/37mOEPM",
-            "alt_data": "Technical"
+            "img": "https://images-eu.ssl-images-amazon.com/images/I/41bcO0HmbFL._SX198_BO1,204,203,200_QL40_FMwebp_.jpg",
+            "download_link": "https://drive.google.com/drive/folders/1ufjz7bELUOpLvpxVc7J_1o5C0Z-HO-gg?usp=sharing",
+            "alt_data": "MCGrewHill"
         }
     ]
 }
