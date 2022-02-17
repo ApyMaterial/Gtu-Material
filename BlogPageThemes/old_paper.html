@@ -1,0 +1,113 @@
+<style>
+    .slider {}
+
+    .book-img {
+        width: 200px;
+        height: 250px;
+    }
+  .subject_name {
+  background-color: rgb(51, 51, 51) !important;
+  }
+
+
+    @media (max-width: 880px) {
+        .book-img {
+            width: 170px;
+            height: 210px;
+        }
+    }
+
+    @media (max-width: 520px) {
+        .book-img {
+            width: 150px;
+            height: 200px;
+          	
+        }
+      .old-paper-btn {
+        font-size: revert;
+      }
+    }
+  
+  @media (max-width: 380px) {
+        
+      .old-paper-btn {
+        font-size: smaller;
+      }
+    }
+  
+  
+</style>
+
+
+<div id="OldPapers"></div>
+
+<script>
+    var allSubjectCodes = ["3110001","3110002","3110003","3110004","3110005","3110007","3110011","3110012","3110013","3110014","3110015","3110016","3110006"];
+      var requestURL;
+    var request;
+    var response;
+    var allOldPapersData;
+
+      async function GetSubjectsData(){
+      
+      let OldPapersdiv = document.getElementById("OldPapers");
+       	  OldPapersdiv.innerHTML = ``;
+        for (k of allSubjectCodes){
+          
+          	requestURL = "https://apymaterial.github.io/Gtu-Material/" + k + ".json";
+            request = new Request(requestURL);
+            response = await fetch(request);
+          	SubjectData = await response.json();
+          
+         
+          
+          OldPapersdiv.innerHTML += `
+          <div class=" border-2 border-gray-700 rounded-lg shadow-inner-lg mt-2 mb-2">
+      <div class="  subject_name p-2 align-center  text-white text-center font-revert font-semibold text-lg ">
+          <h3 title="` + SubjectData["subject_name"] + `(` + SubjectData["subjecet_code"] + `)` + `" class="mt-2 mb-2  text-white text-center  font-semibold text-lg">` + SubjectData["subject_name"] + `(` + SubjectData["subjecet_code"] + `)` + `</h3>
+      </div> 
+      <div class="container mx-auto pb-2 ">
+          <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1	" id="` + k + `"> </div>
+      </div>
+                `;   
+          
+          getSubjectPapers(SubjectData["old_paper"], k);
+        
+        }
+        
+      }
+  
+  function getSubjectPapers(all_papers, subject_code) {
+  
+    let PaperSection = document.getElementById(subject_code);
+    
+    if(all_papers.length > 0){
+      
+      for(let i of all_papers){
+        
+        PaperSection.innerHTML += `
+        <div class="my-1 px-1 w-1/3 overflow-hidden sm:my-1 sm:px-1 sm:w-1/3 md:my-1 md:px-1 md:w-1/4 lg:my-1 lg:px-1 lg:w-1/5 xl:my-1 xl:px-1 xl:w-1/5 ">
+         <div class="  pt-2 ">
+                    <a target="_blank" href="` + i["link"] + `" class="old-paper-btn btn shadow-md btn-outline-dark  w-100">`+ i["year"] +`</a>
+                </div>
+        </div>
+        </div>
+        `;
+        
+      }
+    }else {
+    
+    PaperSection.innerHTML += `
+        <div class="">
+         <div class=" align-center  pt-2 ">
+                    <p>No Papers Avaliable</p>
+                </div>
+        </div>
+        </div>
+        `;
+    }
+  }
+  
+  GetSubjectsData();
+  
+</script>
