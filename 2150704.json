@@ -1,0 +1,50 @@
+{
+    "subject_name": "Object-Oriented Programming Using JAVA",
+    "known_as": "OOP2",
+    "subjecet_code": "2150704",
+    "syllabus": "https://bit.ly/3Cs3oLq",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://www.gtu.ac.in/uploads/W2021/BE/2150704.pdf"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3jzPTAK"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/2Vxv7tE"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3AjfsNh"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3xpmLBe"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/2Vs6Zsu"
+        }
+        
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEi8fBKFANvXSw-yPch4n2z1ln7vAi0NQgvpUnQYBP1u5Hv189V0pn0IGlgFLL58FArcDVHaWn2B0crblcNA1Za1s8jJoBXUJPRRSM91LGNNbpzDZjEmuO7I0ZFEgC1iPQAcAtS22aJnQzsYPP14OadGjV1v-7RUC6jJ7IBkD8XFriTWMyhP4H2At3O74w",
+            "download_link": "https://bit.ly/3EhoNXB",
+            "alt_data": "OOP2  Horstmann, Cornell. Core Java, Vol. I, Fundamentals, 8ed, 2007 (Prentice-Hall) "
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhCvl4lL1hRNik_YiaGPIoiczQnO8yB_IURP2WcPJITm0roFaEC9m2zAYKNpgdBkORMrwjY1MgDT0PGru5o3JY3VbySk9ujVBggeg-z_q6vkR7L4MLFx6QWIJBI-nqT6BH4FgDgzsrwrK1ZEzEATv6P-ZOqBzVsbsaXgms87c4AXJd8cx6_jtaO9h_7qg",
+            "download_link": "https://bit.ly/3pdUwV8",
+            "alt_data": "OOP2 The Complete Reference, Java 2 (Fourth Edition),Herbert Schild, - TMH"
+        }
+    ]
+}
