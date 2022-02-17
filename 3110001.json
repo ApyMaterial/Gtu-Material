@@ -1,0 +1,34 @@
+{
+    "subject_name": "Chemistry ",
+    "known_as": "Chemistry",
+    "subjecet_code": "3110001",
+    "syllabus": "https://bit.ly/3jW35Sd",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/37C4juM"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3fYu3pw"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/2Xgfozz"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3xG1MKC"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3iFewgd"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": []
+}

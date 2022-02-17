@@ -1,0 +1,26 @@
+{
+    "subject_name": "English",
+    "known_as": "English",
+    "subjecet_code": "3110002",
+    "syllabus": "https://bit.ly/3E9Iqkg",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/32n0dqK"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3qbnGnm"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3J9znDJ"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": []
+}
