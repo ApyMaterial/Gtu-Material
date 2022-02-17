@@ -1,0 +1,45 @@
+{
+    "subject_name": "Digital Fundamentals",
+    "known_as": "DF",
+    "subjecet_code": "3130704",
+    "syllabus": "https://bit.ly/3fytmmQ",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/ZFsiox"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/aliUFS"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/DICu6F"
+        }
+       
+
+    ],
+    "paper_solution": [
+        {
+            "year" : "Winter-19",
+            "file_link": "https://drive.google.com/file/d/1cbJAlbufiYqEt6PfMx1629nXgy3k_NYf/view?usp=sharing",
+            "alt_data": "Winter-19 DF Solution"
+        }
+    ],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "https://gtumaterialapy.blogspot.com/p/imp-of-df-3130704.html",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-KJTF4d5ZBlY/YCpzCYYeeEI/AAAAAAAAAMc/Mm1gJobxq_MDhGsvqy75WCdgvldYHzQOQCNcBGAsYHQ/s320/Screenshot_391.png",
+            "download_link": "https://drive.google.com/file/d/1GiFtHTTwQJLa7Jc6pKuX7KgDl7CrcwHF/view?usp=sharing",
+            "alt_data": "Technical "
+        },
+        {
+            "img": "https://1.bp.blogspot.com/-UmkP-thVjHo/YDXDRNNLXiI/AAAAAAAAAOc/ESxvM4j94hcUbShAwejIqzYnlTbV6zWDQCNcBGAsYHQ/s320/Screenshot_442.png",
+            "download_link": "https://drive.google.com/file/d/1wjWHSpPiiE1BoE8UffnpJX4DILq-I6Nw/view?usp=sharing",
+            "alt_data": "Morris Mono"
+        }
+    ]
+}
