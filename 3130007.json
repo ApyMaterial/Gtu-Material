@@ -1,0 +1,43 @@
+{
+    "subject_name": "Indian Constitution",
+    "known_as": "IC",
+    "subjecet_code": "3130007",
+    "syllabus": "https://bit.ly/3rSpJgs",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/yqBwL9"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/MN2XPA"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/fn6EjC"
+        }
+    ],
+    "paper_solution": [
+    ],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-n0aSPo9bADE/YCp0N2nRGoI/AAAAAAAAAM4/-yikdiIpegA3HQdtoFbnNgTCY6Mymi7-ACNcBGAsYHQ/s320/Screenshot_395.png",
+            "download_link": "https://bit.ly/ICtechnical",
+            "alt_data": "Technical"
+        },
+        {
+            "img": "https://1.bp.blogspot.com/-R_VT3Wts21A/YCp0DvkKh3I/AAAAAAAAAM0/qnH2Tylp9JccVFVyeyQYQkC4QSZyUGaKQCNcBGAsYHQ/s320/Screenshot_394.png",
+            "download_link": "https://bit.ly/ICMcGrewHill",
+            "alt_data": "McGrewHill"
+        },
+        {
+            "img": "https://1.bp.blogspot.com/-GQUFzvhJ2Z0/YDXX5-AR9lI/AAAAAAAAAOo/GVYhf51qACwEq-2hosNeKYOhQstrI9szwCNcBGAsYHQ/s320/Screenshot_444.png",
+            "download_link": "https://bit.ly/IindianConstitution",
+            "alt_data": "Indian Constitution"
+        }
+    ]
+}

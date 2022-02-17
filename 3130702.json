@@ -1,0 +1,77 @@
+{
+    "subject_name": "Data Structures",
+    "known_as": "DS",
+    "subjecet_code": "3130702",
+    "syllabus": "https://bit.ly/3s3jc2E",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/YGNX0F"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/5jvYnb"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://leher.to/bit/ly/FGcPMU"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://leher.to/bit/ly/S1aPO2"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://leher.to/bit/ly/FUTHlW"
+        },
+        {
+            "year": "Winter-17",
+            "link": "https://leher.to/bit/ly/uk2Kd6"
+        }
+
+    ],
+    "paper_solution": [
+        {
+            "year" : "Winter-16",
+            "file_link": "https://drive.google.com/file/d/1eyZ8CNVLwLyfzVXGLrnAuiQqEjM1S396/view?usp=sharing",
+            "alt_data": "Winter-16 DS Solution"
+        },
+        {
+            "year" : "Winter-17",
+            "file_link": "https://drive.google.com/file/d/1EvH-eMN6uKn4ABzcL6JThLcC6SdiAwXS/view?usp=sharing",
+            "alt_data": "Winter-17 DS Solution"
+        },
+        {
+            "year" : "Summer-18",
+            "file_link": "https://drive.google.com/file/d/1sEEF0rN10DCe-Bm22icSTmxaCB_KZEyq/view?usp=sharing",
+            "alt_data": "Summer-18 DS Solution"
+        },
+        {
+            "year" : "Summer-19",
+            "file_link": "https://drive.google.com/file/d/19rgei8MIXJ4k5qiye8Vbf5jeZeQ_iL47/view?usp=sharing",
+            "alt_data": "Summer-19 DS Solution"
+        }
+
+    ],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "https://gtumaterialapy.blogspot.com/p/imp-of-ds-3130702.html",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-6G_Sx3Qi28E/YCpyl4RKjMI/AAAAAAAAAMM/fe3uCWlv0ZM6-vr17UDqnMveukQcKfctgCNcBGAsYHQ/s320/Screenshot_390.png",
+            "download_link": "https://drive.google.com/file/d/1AoQbCHd5vhXS2djqukujn3i-CTNg6b1n/view?usp=sharing",
+            "alt_data": "Technical"
+        },
+        {
+            "img": "https://1.bp.blogspot.com/--vW9CuH1LCg/YDc8mu8QbhI/AAAAAAAAAO0/lnUY0bO7S5UDLBRGrR2XP_wfgN4r4qAkgCNcBGAsYHQ/s320/Screenshot_445.png",
+            "download_link": "https://drive.google.com/file/d/1_64wGLvwdP-LDUF04U_rSgjfVWDpFlFc/view?usp=sharing",
+            "alt_data": "Reema Thareja"
+        },
+        {
+            "img": "https://1.bp.blogspot.com/-IOdEUvn0lfA/YDc-7dpIFTI/AAAAAAAAAO8/YnRQTFMRBV8wBZA21RxNqUir9QOBDRaBwCNcBGAsYHQ/s320/Screenshot_446.png",
+            "download_link": "https://drive.google.com/file/d/1LISnUppoZcB8ENp8SWKZV86Pa_mKASAE/view?usp=sharing",
+            "alt_data": "Algorithams"
+        }
+    ]
+}
