@@ -1,0 +1,48 @@
+{
+    "subject_name": "Probability and Statistics",
+    "known_as": "PS",
+    "subjecet_code": "PS",
+    "syllabus": "https://bit.ly/3xl0rbS",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/6PG1ry"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/0bQ5Sp"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/evhboZ"
+        }
+    ],
+    "paper_solution": [
+        {
+            "year" : "Winter-19",
+            "file_link": "https://drive.google.com/file/d/1moHoT77xvoe-U9j-lgD-W_BEiNIAmcVB/view?usp=sharing",
+            "alt_data": "Winter-19 P&S Solution"
+        },
+        {
+            "year" : "Winter-20",
+            "file_link": "https://drive.google.com/file/d/1l8Ih6EWPj2ItSds0O-EgQYeh29XX4fpP/view?usp=sharing",
+            "alt_data": "Winter-20 P&S Solution"
+        },
+        {
+            "year" : "Summer-20",
+            "file_link": "https://drive.google.com/file/d/1n2luHQr0njrl_9WR3hdrQXFb6k4_NQRA/view?usp=sharing",
+            "alt_data": "Summer-20 P&S Solution"
+        }
+    ],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "https://drive.google.com/file/d/1YqeD_jVnXwZK8g-prBB5weP4wC6vBNZ1/view?usp=sharing",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://1.bp.blogspot.com/-ZX-KIveYtgU/YCpzZX6dL_I/AAAAAAAAAMk/bRC-sH2JlsoFK3yu2nOzOId7kHWtECcQACNcBGAsYHQ/s528/Screenshot_392.png",
+            "download_link": "https://bit.ly/37mOEPM",
+            "alt_data": "Technical"
+        }
+    ]
+}
