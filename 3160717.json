@@ -1,0 +1,24 @@
+{
+    "subject_name": "Data Visualization",
+    "known_as": "DV",
+    "subjecet_code": "3160717",
+    "syllabus": "https://bit.ly/3iu9e7l",
+    "old_paper": [],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEj040kZiNN9Z1RE_52Dtmoma-5gqU9z6LEistsoopA5UCLrafd9Bu_7O8UDOnHXyJ0mWoQN7dDF06CahhU63_BufOgyWhRGPgLiAe4cfM6m3CuwWJI-NHV-CNDry7rfFln-qtrLjatsZtZKTmQj4mJs3JXb4_gMe95RyvAc0VRlMaebhtAgXV69b-tJZA",
+            "download_link": "https://bit.ly/DVBook1",
+            "alt_data": "Data Visualization 3160717"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEg5CfLcSw_RfL9MtmvVGjvoMVyFvbv6vQaQPVD5PGi-NWYySRSX9NtyEhxm-weT2PZfi1H35wRr6hv6Cj5IbhQSt06zSwwLREhvD82IwOouRwFjfFzlCTIF90cSZwl0_UHGzpb1SfTfABgY3j13V1aRjc4iLGcVfZanxQ418FpXY75wTaeaDkLkfSRidg",
+            "download_link": "https://bit.ly/DVBook2",
+            "alt_data": "Data Visualization 3160717"
+        }
+    ]
+}

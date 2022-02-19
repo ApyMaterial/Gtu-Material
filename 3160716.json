@@ -1,0 +1,36 @@
+{
+    "subject_name": "IOT and applications",
+    "known_as": "IOT",
+    "subjecet_code": "3160716",
+    "syllabus": "https://bit.ly/3AjGXWT",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3CxV8t5"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3wgviaR"
+        },
+        {
+            "year": "Summer-17",
+            "link": "https://bit.ly/3mwper8"
+        },
+        {
+            "year": "Winter-17",
+            "link": "https://bit.ly/3EzrnZC"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEikczizxxHYQ14bpQEjDjgyON3TDK6lu27k_dGIgPC69sY6C70ZUdrZNHrfJEkYwqmXX80Po_3BbA57OmQmMuj65Dbg-VEJR8XETRtJn6Bz6j4qZKto_9D_qPn6X9_8oEHdPQixS9pvWeiJufvkFG9fxO_sUZzqfkzrXLDbQPMBLZK6kAh_6e7fr8BxFQ",
+            "download_link": "https://bit.ly/IOTDarshan",
+            "alt_data": "Darshan IOT and applications 3160714"
+        }
+    ]
+}

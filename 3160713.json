@@ -1,0 +1,44 @@
+{
+    "subject_name": "Web Programming",
+    "known_as": "WP",
+    "subjecet_code": "3160713",
+    "syllabus": "https://bit.ly/3jyRxTm",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3s0CWUu"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3yzGMGz"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/37ou3dQ"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3jvdti1"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/2VvRjnz"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/37oFCSr"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEikczizxxHYQ14bpQEjDjgyON3TDK6lu27k_dGIgPC69sY6C70ZUdrZNHrfJEkYwqmXX80Po_3BbA57OmQmMuj65Dbg-VEJR8XETRtJn6Bz6j4qZKto_9D_qPn6X9_8oEHdPQixS9pvWeiJufvkFG9fxO_sUZzqfkzrXLDbQPMBLZK6kAh_6e7fr8BxFQ",
+            "download_link": "https://bit.ly/WPDarshan",
+            "alt_data": "Darshan Web Programming 3160713"
+        }
+    ]
+}
