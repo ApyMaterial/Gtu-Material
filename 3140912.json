@@ -1,0 +1,49 @@
+{
+    "subject_name": "Electromagnetics Field",
+    "known_as": "EF",
+    "subjecet_code": "3140912",
+    "syllabus": "https://leher.to/bit/ly/Gn7X4c",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://leher.to/bit/ly/7g6HaT"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://leher.to/bit/ly/UIOlHR"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://leher.to/bit/ly/tESHqN"
+        },
+        {
+            "year": "Winter-19",
+            "link": " https://leher.to/bit/ly/hLrEy5"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/TxQMgB"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/KV2wlB"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://drive.google.com/file/d/1GBhPFe_rkdGmR0-FQsTFHIwdXVyzXFce/view?usp=sharing",
+            "download_link": "https://leher.to/bit/ly/mroCt7",
+            "alt_data": "McGrewHill"
+        },
+        {
+            "img": "https://drive.google.com/file/d/1Z_kL3jVrx3107HwAhdMjYlX43BqBWbhL/view?usp=sharing",
+            "download_link": "https://leher.to/bit/ly/59DH09",
+            "alt_data": "McGraw Hill Education"
+        }
+    ]
+}
