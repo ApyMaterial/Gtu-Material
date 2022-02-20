@@ -1,0 +1,40 @@
+{
+    "subject_name": "Power System- I",
+    "known_as": "PSI",
+    "subjecet_code": "3140914",
+    "syllabus": "https://leher.to/bit/ly/AmLgkg",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://leher.to/bit/ly/yxhzwo"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://leher.to/bit/ly/KcTGWx"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://leher.to/bit/ly/U3fBaf"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/75JSRr"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/936Yca"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://drive.google.com/file/d/1boumZOKWEFVBlKsBFHdK7snaBf5EF9CZ/view?usp=sharing",
+            "download_link": "https://leher.to/bit/ly/VrKW4w",
+            "alt_data": "Power-System-Analysis-by-Hadi-Saadat-Electrical-Engineering-libre, McGraw Hill Education, 2013."
+        }
+    ]
+}
