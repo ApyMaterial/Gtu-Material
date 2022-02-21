@@ -1,0 +1,26 @@
+{
+    "subject_name": "Finite Element Methods",
+    "known_as": "FEM",
+    "subjecet_code": "3171920",
+    "syllabus": "https://bit.ly/3K3g5jN",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3KUuDT4"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3uchBL1"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3IMab59"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": []
+}
