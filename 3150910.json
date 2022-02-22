@@ -1,0 +1,49 @@
+{
+    "subject_name": "Electrical Machine- II",
+    "known_as": "EM-II",
+    "subjecet_code": "3150910",
+    "syllabus": "https://bit.ly/3hBy0Sf",
+    "old_paper": [
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3ml33Uw"
+        },
+        {
+            "year": "Winter-2020",
+            "link": "https://bit.ly/3Ec7pmP"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgqQMwl3aGrhMVKrTd72WbC5FH616cwG0yyCWt1xtupf55mCvvTcMV0_8cSLALQasyIEV0S3Xpc2TtrW8fkdREaBp7XE6aiuVhDzdwIv7p3KPg5j2Ho_-2FQBguW3WcUqIOW8xmlDqgkgwp5UOgMwGJJRyTeZ_vDVoiY8h7ApD5faFWM0mxfVrHzZgphw",
+            "download_link": "https://bit.ly/3JNxHjq",
+            "alt_data": "Darshan : EM-II"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEickJbvAA6LZeZ_SVr1-ZsakctdaUmsz3pi-uUFHc6NvC2NAxctYXJ0ukAnGK7LgNpIxx7vdAG0LxROJXqT5UHjIowMMg9OeETxazoD0tf0d_3Mn-wST4IvlF1lLdURi49vFOdG1TYs0ORgXLDjr7BL9CBJK1G93BAV4K5i2yRfsDPo61oYxd58kYXEEg",
+            "download_link": "https://bit.ly/3zxakGh",
+            "alt_data": "P. S. Bimbhra, Electrical Machinery, Khanna Publishers, 2011. (APY Material)"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjmlGhsl9rZO-wHD4vQOaW28fLfaEv1bmwFAyrFXyyqDs7OvLnIe0ktlBSXI0as9KCtovDknLEXvvt4MBebdD43OOdO808KR4SJM50MXPrqvHt8nGCvix3CfHUsZIis-rrJE9RnEmjmon_LY3iXg6oj8IAPOuk9c7F2PNh--mC7ddFV7YFjFbXG1_xbmQ",
+            "download_link": "https://bit.ly/3t2mJAz",
+            "alt_data": "I J Nagrath and D. P. Kothari, Electric Machines, McGraw Hill Education, 2010 (APY Material)"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiXFxcPN3qWtFRoZNeD2yUA8Li1h1beUt4tOmLrDMjL-4qKg03ZKZA64aBetXEdQBOGnqd4tVrDWaOILIyKBEAi1Wp9-aOx-qxAAiFMheuvFqPHM40GNYSxsQ8BjzOW5nLgpJv0pUnJ0hsVyVkbM8yupaQfwLT8ykFX3UetCz0xzzaCFwyjBobiuLRHww",
+            "download_link": "https://bit.ly/3G3QBQF",
+            "alt_data": "E. Fitzgerald and C. Kingsley, Electric Machinery, New York, McGraw Hill Education, 2013 (APY Material)"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEh4OqcC-nAuHDjKQRBZ1AOSErm6qpzLuBMLGRV5s6B63Gxim0yPuK4bUtojYTijHD9RCsBrYJcxXHHi6EfUwOKvl6RnXVs4KzUX7nW5PGeWcFRe0f4g57J6NpGFxDQRWMPbQ9NNkupKveSqib3vDMMTGwePueQ9hP6A4s6VGpiEhBFD3K4nkYHrLusxWQ",
+            "download_link": "https://bit.ly/3G6ISRZ",
+            "alt_data": "B L Theraja, Electrical Technology Part II, S Chand Publications, 2011 (APY Material)"
+        }
+
+    ]
+}
