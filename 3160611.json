@@ -1,0 +1,40 @@
+{
+    "subject_name": "Environmental Engineering",
+    "known_as": "EE",
+    "subjecet_code": "3160611",
+    "syllabus": "https://bit.ly/37qgqLi",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3fAYUI7"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3qCBFnw"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3Ar0KoV"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/33QtElN"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3tFDq56"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjeyLwkd0QPqd_49-1jHuUm5PHd-EOOzovzb-TrEZet6mQpwoB041ypgf7NwFbMadRhoJTvqE_bEvw2-alJfLhTX2ZrkvrTU6E-G9pQSn7FqB_54RPFtx8pra8ymbcr5OQEwXyDahVIoS8ZQqQd3kPZXEAhxKkjp_MYRz4sQYDuI6KVsgdbDQts9xwrNA",
+            "download_link": "https://bit.ly/3tFYpVM",
+            "alt_data": "Environmental Engineering by Peavy and Rowe"
+        }
+    ]
+}
