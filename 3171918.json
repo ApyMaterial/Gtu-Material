@@ -1,0 +1,42 @@
+{
+    "subject_name": "Refrigeration and Air conditioning",
+    "known_as": "R&AC",
+    "subjecet_code": "3171918",
+    "syllabus": "https://bit.ly/3fgy0VM",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3Gcjo58"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3s5yAvw"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3gfOttP"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3HejB9b"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3s92Ztg"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3G7NUNf"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3ugenGb"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": []
+}

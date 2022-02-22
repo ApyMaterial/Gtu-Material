@@ -1,0 +1,45 @@
+{
+    "subject_name": "Complex Variables and Partial Differential Equations",
+    "known_as": "CVPDE",
+    "subjecet_code": "3140610",
+    "syllabus": "https://bit.ly/3rYhW0q",
+    "old_paper": [
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/gXsIjN"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://leher.to/bit/ly/YwAtPn"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/tYwnHV"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://leher.to/bit/ly/FjmLrN"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/G4miBa"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhPSTpajnnzWJMudH2lJwOKAdM038Iqz5saueDwAbvMrGjJMK-I58wd1JBTXx_9g_t2rn_EeNsXbhz8SdddkwAUCIBsGGAeX4JeSBxszjXlMehKVa0v51D_XlzBWZ1pKKd1K-IckixSTFrnEmGOIWAPjS_3h3_H_CQ5CQAuds_qCgZy0UyXVePkHHzGGg",
+            "download_link": "https://bit.ly/3qlBSv2",
+            "alt_data": "Advanced engineering mathematics by John"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjJSG_LnAd0xlT7C6fsefsArkBmI_FylEQeL_OKQsTIClvaLsgoecvBSaqPV1W2rtmQqm7DahJbVJvV7a-cRyREeqG07ydsPxV443Yjr2gF6BEeH7JxMsnQULWDsJJZgy5G21cx-Y_NJPmEp7tnUudweM73HI30U8IYralpeEj_Q88t17ODqLn5oCyhIQ",
+            "download_link": "https://bit.ly/31WkFz6",
+            "alt_data": "darshan"
+        }
+    ]
+}
