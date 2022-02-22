@@ -1,0 +1,45 @@
+{
+    "subject_name": "Mechanics of Solids",
+    "known_as": "MOS",
+    "subjecet_code": "3130608",
+    "syllabus": "https://bit.ly/37flMsI",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://leher.to/bit/ly/AIERl9"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://leher.to/bit/ly/WqWAn9"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://leher.to/bit/ly/KdPYXQ"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://leher.to/bit/ly/REVQj0"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://leher.to/bit/ly/zPBcAU"
+        }
+    ],
+    "paper_solution": "",
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgXWmXryW6oV1HR26zlafi-O11mqCC-0i-wYrKpwoEVxWDZ-zPfCpTU71uVCKWKc07r8dhlICQzPnGLyg9SMwlGZy5Tlds1ismukj_Hwzx0C1AY0JiLMnhBEOTKcEkqTwjZAXZbgwXCg9VASHVarxEGA3pvx9UbgymoZ0Kh4Xs70hCjPVyWqSs-0eH66g",
+            "download_link": "https://bit.ly/3qgzCEn",
+            "alt_data": "B.C. Punmia_ Ashok Kumar Jain_ Arun Kumar Jain - Mechanics of Materials"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgXWmXryW6oV1HR26zlafi-O11mqCC-0i-wYrKpwoEVxWDZ-zPfCpTU71uVCKWKc07r8dhlICQzPnGLyg9SMwlGZy5Tlds1ismukj_Hwzx0C1AY0JiLMnhBEOTKcEkqTwjZAXZbgwXCg9VASHVarxEGA3pvx9UbgymoZ0Kh4Xs70hCjPVyWqSs-0eH66g",
+            "download_link": "https://bit.ly/3eg0IFY",
+            "alt_data": "G. H. Ryder M.A.(Cantab.), A.M.I.Mech.E. (auth.) - Strength of Materials-Macmillan Education UK (1969)"
+        }
+    ]
+}
