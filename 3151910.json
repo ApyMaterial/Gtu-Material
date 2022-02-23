@@ -1,0 +1,38 @@
+{
+    "subject_name": "Operation Research",
+    "known_as": "OR",
+    "subjecet_code": "3151910",
+    "syllabus": "https://bit.ly/36C08OR",
+    "old_paper": [
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/325SIFb"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3EfW3yq"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhS-kjZkweQhoqrVLuaqpn1Vc8eEQucs1VMThinyujRha2lUq9H_bFnsdSkimqfnrpj2hxXSWH1LW5jmmQMLF3yZJgIjHNTGZzWRJ2R1R_eH_wlthE7dIdZ7RerFPilAzeFIZmfMjcAlfy0dhm-v7Fb_jeRONQulzF18iTLHi4uOwYU3WONL34HdcGQ0g",
+            "download_link": "https://bit.ly/3r06PUZ",
+            "alt_data": "OR Lecture Notes by IAE"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgKJJcTrX-ZEGmA_Lefa-k4CeGIDR5snOOGKKKR-4h2gH8xdinsuw8CpCmkSSzt84JoFdcr3TuapFkuQCSiGheiH7eefBKR_G66S6m99oo4bO1idN_gn5JjaNM8dNrY-wzQ7_BQw5m0lXpicTuJ-R1Vekg9PRmQospp00GwjrKDbqon3tp5VWO06MgPDw",
+            "download_link": "https://bit.ly/3n5YuxH",
+            "alt_data": "Operation Research Notes"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEju3T9dSDgO1N0skLE7UBP6WquX_KPSc2RzEdmcS00ieMjIWq1n8V9_-GO1BRZ5mVoRBovSt1P3kVJ_ga5NlGpf0d6Tx-9id1vhTMxY8NQ5exnwt66e7rn6lbHzFgaOodx3TzN8ZqhoTLRTIQ0VHCj5WcnG46X9ReVg1zLP2auEVHJX9vrZnNzBBqtURg",
+            "download_link": "https://bit.ly/3pZeGmi",
+            "alt_data": "J_K_Sharma_Operations_research_theory_and_applications_Trinity_2016"
+        }
+    ]
+}
