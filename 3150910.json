@@ -1,16 +1,12 @@
 {
-    "subject_name": "Electrical Machine- II",
-    "known_as": "EM-II",
-    "subjecet_code": "3150910",
-    "syllabus": "https://bit.ly/3hBy0Sf",
+    "subject_name": "Power System- II",
+    "known_as": "PS-II",
+    "subjecet_code": "3150911",
+    "syllabus": "https://bit.ly/2UJnIH0",
     "old_paper": [
         {
-            "year": "Summer-21",
-            "link": "https://bit.ly/3ml33Uw"
-        },
-        {
             "year": "Winter-2020",
-            "link": "https://bit.ly/3Ec7pmP"
+            "link": "https://bit.ly/3yHmZ97"
         }
     ],
     "paper_solution": [],
@@ -20,29 +16,39 @@
     "assignments": "",
     "Books": [
         {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgqQMwl3aGrhMVKrTd72WbC5FH616cwG0yyCWt1xtupf55mCvvTcMV0_8cSLALQasyIEV0S3Xpc2TtrW8fkdREaBp7XE6aiuVhDzdwIv7p3KPg5j2Ho_-2FQBguW3WcUqIOW8xmlDqgkgwp5UOgMwGJJRyTeZ_vDVoiY8h7ApD5faFWM0mxfVrHzZgphw",
-            "download_link": "https://bit.ly/3JNxHjq",
-            "alt_data": "Darshan : EM-II"
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjSK6e0-8Flgpecw8BuKffjfU_dlYIY8oY-3MpPYG4HhfkroFKHfFGg9SyewiFgeZAwbT83ggl68SDK2HkUupliItkWLWu3e-5GDdm1USSksVGrxCt-06CKd__aGE7xOuq2G07YW5efOnCkJBtBYdoInbHYkP8u9S27bpiSbN0vmno0Yy4OK2i710ah6A",
+            "download_link": "https://bit.ly/3HJBCvK",
+            "alt_data": "Darshan : PS-II"
         },
         {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEickJbvAA6LZeZ_SVr1-ZsakctdaUmsz3pi-uUFHc6NvC2NAxctYXJ0ukAnGK7LgNpIxx7vdAG0LxROJXqT5UHjIowMMg9OeETxazoD0tf0d_3Mn-wST4IvlF1lLdURi49vFOdG1TYs0ORgXLDjr7BL9CBJK1G93BAV4K5i2yRfsDPo61oYxd58kYXEEg",
-            "download_link": "https://bit.ly/3zxakGh",
-            "alt_data": "P. S. Bimbhra, Electrical Machinery, Khanna Publishers, 2011. (APY Material)"
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEh4_ABW44WYWzju1U5cyGcRxfeoiHQVCdy2cAp6ycqd6EHdm7q__qfxLOVZP18aldrcd0z24p_sS8ILGwN1REdiI89wyu3NaQGqllEJItmxsJmAXQ_Vq_DmsNtF26L3PCVeKfL2cEf15wN2tlHRfDAJw2wjXtNZxr_paErv2qzFPqG6--4RVauVjHAbXg",
+            "download_link": "https://bit.ly/3qZfsPg",
+            "alt_data": "Power System Analysis  John J. Grainger, William D. Stevenson Jr., McGraw Hill Education (APY Material)"
         },
         {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjmlGhsl9rZO-wHD4vQOaW28fLfaEv1bmwFAyrFXyyqDs7OvLnIe0ktlBSXI0as9KCtovDknLEXvvt4MBebdD43OOdO808KR4SJM50MXPrqvHt8nGCvix3CfHUsZIis-rrJE9RnEmjmon_LY3iXg6oj8IAPOuk9c7F2PNh--mC7ddFV7YFjFbXG1_xbmQ",
-            "download_link": "https://bit.ly/3t2mJAz",
-            "alt_data": "I J Nagrath and D. P. Kothari, Electric Machines, McGraw Hill Education, 2010 (APY Material)"
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiMOMhh195F7slUt8GyGbsTWm5rUaY_wAWW4_LK6j6SfeUxQUAEi3njS8jrvBcA6WPZhniP1FWHPTspR60mit866Oeliews1SNoUz5LmZUeCbYstMfQwI3nLUVcI6Y6Ax8Qv7OnPBPvi7jJP-TvHMLxL0HjK4zihUHX4hxe7kApOp_n4vX-jXJxdQS5gg",
+            "download_link": "https://bit.ly/3n4QkFH",
+            "alt_data": "Modern Power system Analysis by I J Nagrath, D P Kothari, McGraw Hill Education (APY Material)"
         },
         {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiXFxcPN3qWtFRoZNeD2yUA8Li1h1beUt4tOmLrDMjL-4qKg03ZKZA64aBetXEdQBOGnqd4tVrDWaOILIyKBEAi1Wp9-aOx-qxAAiFMheuvFqPHM40GNYSxsQ8BjzOW5nLgpJv0pUnJ0hsVyVkbM8yupaQfwLT8ykFX3UetCz0xzzaCFwyjBobiuLRHww",
-            "download_link": "https://bit.ly/3G3QBQF",
-            "alt_data": "E. Fitzgerald and C. Kingsley, Electric Machinery, New York, McGraw Hill Education, 2013 (APY Material)"
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhtazQXHg5lp_yx_wYZH0JWoaLjZ87MlTv-AiDwjXSk0z8N5WIqL4ADYodk_DcdwJpxXAP4rF6I1v-J9RtKAo8Qz0s5lQJ2m6_wORkFw2fjtA_4Knb9kjLqDINwcBEh2nN1aFS_4TdgjTsB0k4uT7kTsl7fEQwepJ-cMmgTI5VKSL3pYGBQo902nXkj3g",
+            "download_link": "https://bit.ly/3tdfW78",
+            "alt_data": "Kothari_Modern_Power_System_Analysis_Mc_Graw_Hill_India_2011"
         },
         {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEh4OqcC-nAuHDjKQRBZ1AOSErm6qpzLuBMLGRV5s6B63Gxim0yPuK4bUtojYTijHD9RCsBrYJcxXHHi6EfUwOKvl6RnXVs4KzUX7nW5PGeWcFRe0f4g57J6NpGFxDQRWMPbQ9NNkupKveSqib3vDMMTGwePueQ9hP6A4s6VGpiEhBFD3K4nkYHrLusxWQ",
-            "download_link": "https://bit.ly/3G6ISRZ",
-            "alt_data": "B L Theraja, Electrical Technology Part II, S Chand Publications, 2011 (APY Material)"
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiiN1ruS-7vuwf4OfuPGKysq4cCsG8rp8mFvMWo71r5dqOKkO3DUA_R43G5sHLW2bc3ltJvS7P04jHNgP5HhI1aBQradcel6oSZeXYCIalRWW_9GTL801v3cAsNTWQWJzA3RddCR08FLpCPsZQOJ0Zv1BWG1jN9LxvNGttnraFTBCdudfnIKUT0pIV47w",
+            "download_link": "https://bit.ly/3F7QGlc",
+            "alt_data": "J_Duncan_J_Duncan_Glover_Glover,_Mulukutla_S_Sarma,_Thomas_Overbye)"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgrfSpfQbbCxKVkojpURXutPF-NUHHaBmYHYnPNeyyf3KrImsd8385ifUqVRY9Z6UIxBMwAHdJlw-SMCC8TLaOhfRUAs0yCUWzSLCAnCwLxtZQ8lT9uAebD8LaPcABJBb-Vuw9yxI7JgNQrwdnvlftwY9S3YWt2SL6yg0zYTMHxrZ3PoXqKI8baNVZ0wQ",
+            "download_link": "https://bit.ly/3HFrswg",
+            "alt_data": "Elements of Power Systems Analysis W. D. Stevenson Jr., 4th Edition, McGraw Hill Education (APY Material)"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhwK_BrIex3BBpKa9UXXzdy5rOacqkz4QA2kJysHVII3KoSU7nkyrlV251dNfPpqKMHc6vw0P542VLNS8V3zJD4AkSTXO5U9D8OutGO3Q7hE8gMWiNX9Y6WErZW3pYcvRRb_M-3C-HTPmf4KrYdXF3ViZ2rewCldhjaJdXiy_D1sHeLkfhIYYAw6bDPfw",
+            "download_link": "https://bit.ly/3JOL9DJ",
+            "alt_data": "Electrical Power systems C. L .Wadhwa, New Age International Publishers (APY Material)"
         }
 
     ]
