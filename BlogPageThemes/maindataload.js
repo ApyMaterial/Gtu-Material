@@ -89,26 +89,34 @@ function getSubjectBooks(all_books, subject_code) {
 `;
   }
 }
-function getSubjectPapers(paperArray, subject_code) {
-  let PaperSection = document.getElementById(subject_code);
-  PaperSection.innerHTML = ``;
-  // console.log("paperArray");
-  // console.log(paperArray);
-  if (paperArray.length > 0) {
-    for (let i of paperArray) {
-      PaperSection.innerHTML +=
-        `
-        <div class="my-3 px-2 w-1/2 overflow-hidden sm:my-3 sm:px-3 sm:w-1/2 md:my-2 md:px-2 md:w-1/2 lg:my-2 lg:px-2 lg:w-1/3 xl:my-1 xl:px-1 xl:w-1/3">
-        <div class=" justify-center item">
-              <div class="inline-block shadow-blue rounded-xl">
-                  <div class=" pt-2 m-2">
-                      <a target="_blank" href="` + i["link"] + `" class="btn shadow-md btn-outline-dark  w-100">`+ i["year"] +`</a>
-                  </div>
-              </div>
-          </div>
-      </div>
-  `;
+function getSubjectPapers(all_papers, subject_code) {
+  
+    let PaperSection = document.getElementById(subject_code);
+    
+    if(all_papers.length > 0){
+      
+      for(let i of all_papers){
+        
+        PaperSection.innerHTML += `
+        <div class="my-1 px-1 w-1/3 overflow-hidden sm:my-1 sm:px-1 sm:w-1/3 md:my-1 md:px-1 md:w-1/4 lg:my-1 lg:px-1 lg:w-1/5 xl:my-1 xl:px-1 xl:w-1/5 ">
+         <div class="  pt-2 ">
+                    <a target="_blank" href="` + i["link"] + `" class="old-paper-btn btn shadow-md btn-outline-dark  w-100">`+ i["year"] +`</a>
+                </div>
+        </div>
+        </div>
+        `;
+        
+      }
+    }else {
+    
+    PaperSection.innerHTML += `
+        <div class="">
+         <div class=" align-center  pt-2 ">
+                    <p>No Papers Avaliable</p>
+                </div>
+        </div>
+        </div>
+        `;
     }
-  }
   }
   
