@@ -1,0 +1,49 @@
+{
+    "subject_name": "Analog Circuit Design",
+    "subjecet_code": "3141002",
+    "known_as": "ACD",
+    "syllabus": "https://bit.ly/2ULmLxC",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3FjAvSU"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3srNIp1"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/32pPcFs"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3Fna9PE"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3EohOfo"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3EqNm4w"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3J8hIMD",
+            "alt_data": "Op-Amps-And-Linear-Integrated-Circuits by Ramakant Gaikwadhttps"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3pjkUx5",
+            "alt_data": "Analog integrated circuits design"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

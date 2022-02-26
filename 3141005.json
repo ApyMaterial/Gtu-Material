@@ -1,0 +1,61 @@
+{
+    "subject_name": "Signal & Systems",
+    "subjecet_code": "3141005",
+    "known_as": "SAS",
+    "syllabus": "https://bit.ly/3wICHOy",
+    "old_paper": [
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3qjI31r"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3yPhbKE"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/33QiPQV"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/32nbDv0"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3Fo7V2B",
+            "alt_data": "Solution manual Signals and Systems by Alan V. Oppenheim, Alan S. Wilsky and Nawab, Prentice Hall (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3qjOiSV",
+            "alt_data": "signals-and-systems-by-ananda-kumarpdf (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3EmvZlb",
+            "alt_data": "Signals and Systems using MATLAB (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3H2PNvv",
+            "alt_data": "Signals and Systems by Alan V. Oppenheim, Alan S. Wilsky and Nawab, Prentice Hall (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3Fl69PT",
+            "alt_data": "Signal, Systems and Transforms by Charles L. Philips, J. M. Parr and E. A. Riskin, Pearson Education (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3mmPSTa",
+            "alt_data": "Linear_Systems_and_Signals_2nd_Edition__BP_Lathi (APY Material)"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
