@@ -1,0 +1,38 @@
+{
+    "subject_name": "Electrical Measurement and Measuring Instruments",
+    "subjecet_code": "3160915",
+    "known_as": "EMMI",
+    "syllabus": "https://bit.ly/3ySWts8",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3nfybW4"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/34CCnIJ"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/33obbwP"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/31NXLd0"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3qhO7bZ"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3qiMz1x"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": null,
+    "imp_material": null,
+    "viva_questions": null,
+    "prectical": null
+}
