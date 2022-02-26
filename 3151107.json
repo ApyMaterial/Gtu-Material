@@ -1,0 +1,34 @@
+{
+    "subject_name": "Advance Microcontroller",
+    "subjecet_code": "3151107",
+    "known_as": "AM",
+    "syllabus": "https://bit.ly/2ULKSfA",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3mMbatF"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3mMbatF",
+            "alt_data": "Programming and Architecture by Mazidi"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3mMbatF",
+            "alt_data": "ARM Architecture by Steve Furber"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3mMbatF",
+            "alt_data": "Assembly Language by Christopher Hindi"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

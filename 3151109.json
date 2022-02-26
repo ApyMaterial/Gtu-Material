@@ -1,0 +1,45 @@
+{
+    "subject_name": "Industrial Automation",
+    "subjecet_code": "3151109",
+    "known_as": "IA",
+    "syllabus": "https://bit.ly/3rasYPK",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3qmd0Ct"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/32cmwjx"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3H2TUb5"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3qhi1Mz"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/30R2wCj"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/30R2wCj",
+            "alt_data": "Introduction to Robotics by SK Saha"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/30R2wCj",
+            "alt_data": "Programming and Customizing the AVR MicroController by Dhananjay Gadre"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
