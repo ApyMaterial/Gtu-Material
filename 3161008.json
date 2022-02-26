@@ -3,21 +3,16 @@
     "subjecet_code": "3161008",
     "known_as": "S&T",
     "syllabus": "https://bit.ly/3wChVjK",
-    "old_paper": [
-        {
-            "year": "-",
-            "link": ""
-        }
-    ],
+    "old_paper": [],
     "Books": [
         {
             "img": "",
-            "link": "",
+            "link": "https://bit.ly/3tGTMdU",
             "alt_data": "Process Control Instrumentation Technology"
         },
         {
             "img": "",
-            "link": "",
+            "link": "https://bit.ly/34TNTzC",
             "alt_data": "Measurement Systems : application and design"
         }
     ],
