@@ -1,18 +1,24 @@
 {
     "subject_name": "Cyber Laws and Ethics",
-    "subjecet_code": "3161925",
     "known_as": "CLE",
-    "syllabus": "https://bit.ly/3i20Vhu",
+    "subjecet_code": "3161925",
+    "syllabus": "https://bit.ly/3yTdkv8",
     "old_paper": [
         {
             "year": "Winter-21",
-            "link": "https://bit.ly/3EdM6l1"
+            "link": "https://bit.ly/32jRq9k"
         }
     ],
-    "Books": [],
     "paper_solution": [],
-    "assignments": null,
-    "imp_material": null,
-    "viva_questions": null,
-    "prectical": null
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgv10idMMFcCoAJN2MyrX2fkBd3Uo0v-MpfnVjCXVc18ChgGjSjHKEydw1jDv50fKSFRPJpun8VSEnG17j_I37gZCSlBwlwCdgIegjJg_7cl4pogi_mEECNWPd-9xc4jIWAOWnZzv4Qyp0qywQcvKsmn0Jm4VCzgnuTdZrEgPDs1IUC4RfSb9sYD7l7EQ",
+            "download_link": "https://bit.ly/3KlLiPf",
+            "alt_data": "Cyber Ethics 4.0"
+        }
+    ]
 }
