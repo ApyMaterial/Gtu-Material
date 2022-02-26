@@ -1,0 +1,29 @@
+{
+    "subject_name": "Satellite Communication",
+    "subjecet_code": "3161010",
+    "known_as": "SC",
+    "syllabus": "https://bit.ly/3ibmUT4",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3r4o0Vi"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3r4o0Vi",
+            "alt_data": "Satellite Communications McGrawHill"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3r4o0Vi",
+            "alt_data": "Satellite Communications Wiley"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

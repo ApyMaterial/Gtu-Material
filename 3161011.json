@@ -1,0 +1,34 @@
+{
+    "subject_name": "Cyber Physical systems",
+    "subjecet_code": "3161011",
+    "known_as": "CPS",
+    "syllabus": "https://bit.ly/3yTIPFc",
+    "old_paper": [
+        {
+            "year": "-",
+            "link": ""
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "",
+            "alt_data": "Principles of Cyber-Physical Systems"
+        },
+        {
+            "img": "",
+            "link": "",
+            "alt_data": "Introduction to embedded systems: a cyber-physical systems approach"
+        },
+        {
+            "img": "",
+            "link": "",
+            "alt_data": "Verification and Control of Hybrid Systems: A Symbolic Approach"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

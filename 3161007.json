@@ -1,0 +1,33 @@
+{
+    "subject_name": "Computer Networks",
+    "subjecet_code": "3161007",
+    "known_as": "CN",
+    "syllabus": "https://bit.ly/3r5CKCY",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3HSokwY"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3HVTweW"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3HVTweW",
+            "alt_data": "Computer Networks by Andrew S. Tanenbaum"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3HVTweW",
+            "alt_data": "Computer networking: A top-down approach"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

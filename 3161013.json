@@ -1,0 +1,29 @@
+{
+    "subject_name": "Systems Engineering",
+    "subjecet_code": "3161013",
+    "known_as": "SE",
+    "syllabus": "https://bit.ly/2UG0HVg",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3GlrwBd"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3GlrwBd",
+            "alt_data": "NASA Systems Engineering Handbook"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3GlrwBd",
+            "alt_data": "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
