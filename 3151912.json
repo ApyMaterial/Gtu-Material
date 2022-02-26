@@ -1,0 +1,29 @@
+{
+    "subject_name": "Manufacturing Technology",
+    "known_as": "MT",
+    "subjecet_code": "3151912",
+    "syllabus": "https://bit.ly/3s044D5",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3FfV0Qa"
+        }
+    ],
+    "paper_solution": [],
+    "prectical": "",
+    "viva_questions": "",
+    "imp_material": "",
+    "assignments": "",
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhEyWWVguEXw1tnX4GlyKjQkbWNiTHVWtyTpVS0BpazWgs4a6F4VurLZ_4j5pz53uARHTigMy_qUZY9WXf0GlUwMRUHtlepyFNgyAdR9CfJwbdq-UjtV_GtnIV3m6xTddv0jPLxTJ9ZZWRUryGwdRG5nbtvyastUQOHjkpZjJl2ROZq7hspBt_hvETDIw",
+            "download_link": "https://bit.ly/3IBOy7o",
+            "alt_data": "McGrawHill  Manufacturing Technology (3151912)"
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhenJqGsBT5T-MSJGC09Cv8frcllUW5VZs0edpASOLJQYGCzvStNYCeJaC9_jzHD3xO8gzACLi491sviZ_47ZzIHe5fwCvmQos_UFIdfn-4maDZqI4sFvRQUUfWXieQyPFYhruOPy_StHeckyL67io6m7UN1QYsNoJ7IHV9nebTXuh_kmEHhBK_wSDSEQ",
+            "download_link": "https://bit.ly/3r2BHoY",
+            "alt_data": "Pearson Manufacturing Technology (3151912) "
+        }
+    ]
+}

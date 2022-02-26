@@ -13,11 +13,11 @@ async function GetSubjectsData(subject,book,paper){
      
       if(paper == true){
         pagediv.innerHTML += `
-          <div class=" border-2 border-gray-700 rounded-lg shadow-inner-lg mt-2 mb-2">
-      <div class="  subject_name p-2 align-center  text-white text-center font-revert font-semibold text-lg ">
+          <div class="border-2 border-gray-700 rounded-lg shadow-inner-lg mt-2 mb-2">
+      <div class="subject_name p-2 align-center  text-white text-center font-revert font-semibold text-lg bg-gray-800">
           <h3 title="` + SubjectData["subject_name"] + `(` + SubjectData["subjecet_code"] + `)` + `" class="mt-2 mb-2  text-white text-center  font-semibold text-lg">` + SubjectData["subject_name"] + `(` + SubjectData["subjecet_code"] + `)` + `</h3>
       </div> 
-      <div class="container mx-auto pb-2 ">
+      <div class="container mx-auto pb-2">
           <div class="flex flex-wrap -mx-1 overflow-hidden sm:-mx-1 md:-mx-1 lg:-mx-1 xl:-mx-1	" id="` + k + `"> </div>
       </div>
                 `;    

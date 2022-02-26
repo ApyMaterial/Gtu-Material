@@ -3,7 +3,45 @@
     "known_as": "REE",
     "subjecet_code": "3161914",
     "syllabus": "https://bit.ly/3yU9CB5",
-    "old_paper": [],
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3GWfuhm"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3FDveWo"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3pypdom"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3z8Xaic"
+        },
+        {
+            "year": "Winter-17",
+            "link": "https://bit.ly/3qPRVAD"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3mEIC5a"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3euSc64"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3sEmETF"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3FJsOpm"
+        }
+    ],
+
     "paper_solution": [],
     "prectical": "",
     "viva_questions": "",
