@@ -1,0 +1,34 @@
+{
+    "subject_name": "Image Processing",
+    "subjecet_code": "2170712",
+    "known_as": "IP",
+    "syllabus": "https://bit.ly/3Fn5I7R",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3slzMwL"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3smmXT2"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3qaXsBp"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/33OqiQB"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3GY1J1B"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

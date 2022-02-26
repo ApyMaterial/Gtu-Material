@@ -1,0 +1,46 @@
+{
+    "subject_name": "Distributed DBMS",
+    "subjecet_code": "2170714",
+    "known_as": "D-DBMS",
+    "syllabus": "https://bit.ly/3AfnOoS",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3yFvOQM"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3q8UwFq"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3E9uWF3"
+        },
+        {
+            "year": "Winter-17",
+            "link": "https://bit.ly/3yWrexP"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/32ac1gt"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3yJV9ZR"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3J74vnl"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3mm4FNH"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
