@@ -1,0 +1,29 @@
+{
+    "subject_name": "Electrical and Hybrid Vehicle",
+    "subjecet_code": "3170923",
+    "known_as": "EAHV",
+    "syllabus": "https://bit.ly/2UbUxML",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3r5akL1"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3IrtDEe",
+            "alt_data": "Bh. Note"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3FPiBqi",
+            "alt_data": "Collage Notes"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

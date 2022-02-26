@@ -1,0 +1,58 @@
+{
+    "subject_name": "Industrial Automation",
+    "subjecet_code": "3170925",
+    "known_as": "IA",
+    "syllabus": "https://bit.ly/3icUN6b",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3o49agS"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3r5FDVU"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3g1ZhvD"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3GcNyVW"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3IHg5nX"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3o41TgR"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3rY3xlo"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3GOmoFH",
+            "alt_data": "Bh. Notes"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3nM1vDD",
+            "alt_data": "Darshan"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3ArMCM4",
+            "alt_data": "Technical"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
