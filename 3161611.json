@@ -1,0 +1,54 @@
+{
+    "subject_name": "Advanced Web Programming",
+    "subjecet_code": "3161611",
+    "known_as": "AWP",
+    "syllabus": "https://bit.ly/3rX7y9m",
+    "old_paper": [
+        {
+            "year": "Summer-2018",
+            "link": "https://bit.ly/3lNTii5"
+        },
+        {
+            "year": "Summer-2019",
+            "link": "https://bit.ly/37tiS3t"
+        },
+        {
+            "year": "Summer-2020",
+            "link": "https://bit.ly/3jFWERF"
+        },
+        {
+            "year": "Winter-2018",
+            "link": "https://bit.ly/3jF3x5H"
+        },
+        {
+            "year": "Winter-2019",
+            "link": "https://bit.ly/2VyfS3N"
+        },
+        {
+            "year": "Winter-2020",
+            "link": "https://bit.ly/3lNUhPf"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3INg02d",
+            "alt_data": "Willy"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3KRL6rb",
+            "alt_data": "Manning"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3o8Zt0N",
+            "alt_data": "Apress"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

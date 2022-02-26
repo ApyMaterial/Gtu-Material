@@ -1,0 +1,55 @@
+{
+    "subject_name": "Big Data Analytics",
+    "subjecet_code": "3161607",
+    "known_as": "BDA",
+    "syllabus": "https://bit.ly/3js4Qos",
+    "old_paper": [
+        {
+            "year": "Winter-17",
+            "link": "https://bit.ly/3o27AvJ "
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3IJvMej "
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3g1tD1m "
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3KMNwHE "
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3g4acFb"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3KWjGRa",
+            "alt_data": "Springer"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3o8s6es",
+            "alt_data": "Willey"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3r8BnVJ",
+            "alt_data": "Cambridge"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/32I1TM9",
+            "alt_data": "McGrawHill"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

@@ -1,0 +1,26 @@
+{
+    "subject_name": "Data Analysis and Visualization",
+    "subjecet_code": "3161613",
+    "known_as": "DAV",
+    "syllabus": "https://bit.ly/3lDvvRN",
+    "old_paper": [
+        ""
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3ryBtox",
+            "alt_data": "Data Science For Dummies"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3He2Jzr",
+            "alt_data": "O'Reilly Media"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

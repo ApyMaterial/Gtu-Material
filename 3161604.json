@@ -1,0 +1,41 @@
+{
+    "subject_name": "Image Processing",
+    "subjecet_code": "3161604",
+    "known_as": "IP",
+    "syllabus": "https://bit.ly/3AhmAtG",
+    "old_paper": [
+        {
+            "year": "Summer-2018",
+            "link": "https://bit.ly/3CykbfP"
+        },
+        {
+            "year": "Summer-2019",
+            "link": "https://bit.ly/3Cr5YRU"
+        },
+        {
+            "year": "Winter-2018",
+            "link": "https://bit.ly/3xy9y9m"
+        },
+        {
+            "year": "Winter-2019",
+            "link": "https://bit.ly/3jErBpo"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3IKkoio",
+            "alt_data": "Pearson"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3g6eWKi",
+            "alt_data": "McGrawHill"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

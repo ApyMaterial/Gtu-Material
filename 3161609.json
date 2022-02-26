@@ -1,0 +1,36 @@
+{
+    "subject_name": "Enterprise Application Development",
+    "subjecet_code": "3161609",
+    "known_as": "EAD",
+    "syllabus": "https://bit.ly/37uXWcl",
+    "old_paper": [
+        ""
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3KW57Nc",
+            "alt_data": "Packt"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3g5n9i7",
+            "alt_data": "McGrawHill"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3goMaFf",
+            "alt_data": "McGrawHill2"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3rbAGLg",
+            "alt_data": "Peaeson"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

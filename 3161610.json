@@ -1,0 +1,31 @@
+{
+    "subject_name": "Data Warehousing and Mining",
+    "subjecet_code": "3161610",
+    "known_as": "DWM",
+    "syllabus": "https://bit.ly/2VxuZu1",
+    "old_paper": [
+        ""
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3HbFoOQ",
+            "alt_data": "Kaufmann"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3ueV4gr",
+            "alt_data": "Willy"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3G9xWlR",
+            "alt_data": "Pearson"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

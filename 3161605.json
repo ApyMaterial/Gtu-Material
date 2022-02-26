@@ -1,0 +1,77 @@
+{
+    "subject_name": "Software Engineering",
+    "subjecet_code": "3161605",
+    "known_as": "SE",
+    "syllabus": "https://bit.ly/3rXg9su",
+    "old_paper": [
+        {
+            "year": "Summer-2017",
+            "link": "https://bit.ly/3CxVLDl "
+        },
+        {
+            "year": "Summer-2018",
+            "link": "https://bit.ly/3iBvpZk "
+        },
+        {
+            "year": "Summer-2019",
+            "link": "https://bit.ly/3ixyr0l "
+        },
+        {
+            "year": "Summer-2020",
+            "link": "https://bit.ly/3lKVrLy "
+        },
+        {
+            "year": "Winter-2017",
+            "link": "https://bit.ly/3jF2se9 "
+        },
+        {
+            "year": "Winter-2018",
+            "link": "https://bit.ly/3s39o8C "
+        },
+        {
+            "year": "Winter-2019",
+            "link": "https://bit.ly/3s5uwLA "
+        },
+        {
+            "year": "Winter-2020",
+            "link": "https://bit.ly/3izIOB6"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3eHzmsI",
+            "alt_data": "Technical"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3mNENuz",
+            "alt_data": "Springer"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3HvQRbQ",
+            "alt_data": "Person"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/32S0C55",
+            "alt_data": "Roger"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/32HuiSr",
+            "alt_data": "McGrewHill"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3HpQzDd",
+            "alt_data": "Darshan"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
