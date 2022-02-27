@@ -35,19 +35,14 @@
     ],
     "Books": [
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhEIxBmwCLM_BoT5cg6GoxxmEJmZ5Sgwalh4pnxvttonCeW0Y9z2YspFgv3ZQHXTQ5wYhYGJXQdwfWjYmuUraRjM0rf0my5YiVZwGMt2yaz7s4-cech_ivOCxPHsa4DFP8Syl9xLz-eN4vTD64K9eu3Q8x3wNRiDyKHJ2R_79bvUYcpQTHGVOQjMuYHIQ",
             "link": "https://bit.ly/3Ipw9dQ",
             "alt_data": "Darshan"
         },
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgR_KzdUajodfR-K6pZMaNJ2lMtdTVsEYPeh8p3J7lCTBux2Rifc114m1_eX5CYbOqSmyQLhjujlLAONjNw-l8FQ9LG0mDno4UQaOI3Uu5Ad_56Dc92p6O7J3j5ZaqrSig4HKU_7sXV7bMHvp_AJV3HlE91SJ4SEXQsbfFrWMNV6kC7NH6blBk9JxH5hg",
             "link": "https://bit.ly/33UuGx8",
             "alt_data": "Atul"
-        },
-        {
-            "img": "",
-            "link": "https://bit.ly/33UxIl0",
-            "alt_data": "Bh. Note"
         }
     ],
     "paper_solution": [],

@@ -35,19 +35,14 @@
     ],
     "Books": [
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEj3_QsM_C384iivFmhJCmH2WVF_sGY_v5_vyKWcXS07_I3ZSvnfgENTXdB1NnQ40tFwb4y-wZbBResGHVX-j9l60PVg4uQPJwZyVqgTjNR7LLcF6vRDZ8RnNUzTffHUqJrPKpiYqLOSild_w35LNzNTgkE4AYOeIun_W9GVU0HSRExvwZX4q_ayLFV99w",
             "link": "https://bit.ly/3KszM4L",
             "alt_data": "darshan"
         },
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhJu-5cAUYYk_GVqLpsN6JGwGaaKRTQJ0iMh7vC_netlE21BV14gnCZlhm_coIIpR3_dA30hO71OQ09rnNH3vxFS8mKc4qgZ1jXCvKntNpKsr_c1zuD3pcdcwhIWL4_xLyexI4fzjp95v3X8aK9Vs2j6b-zf9WFTGrHkmEgBszN8yT8yvO0ZcvQ7HKMUQ",
             "link": "https://bit.ly/3rINRCG",
             "alt_data": "IES KHANNA"
-        },
-        {
-            "img": "",
-            "link": "https://bit.ly/3FHsjLu",
-            "alt_data": "Bh. Note"
         }
     ],
     "paper_solution": [],
