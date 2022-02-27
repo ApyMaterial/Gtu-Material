@@ -15,12 +15,12 @@
     ],
     "Books": [
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgQekE-Ebu4V1DKxlobPEiqZTnx9xvV8enoFZYF0fwaliw2QW6uGG23aM106ddDEfyuvzaRAsjsi40xjdanDJynIp7qgZWr2et-k8Z0ADExLD717tyMB9LwiBHR7BMJ3N37f4uQqTZ7MkBcRMSoc1zPreOoj9QgBMVJi3Lt0bmFMxfPPj_V4vKdos7LMQ",
             "link": "https://bit.ly/3Krc2xZ",
             "alt_data": "Computer Networks by Andrew S. Tanenbaum"
         },
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhcLfAahckjK12OkcHR2e-k39w775LEKZnA5quPRLIXO6fpnUodDbiKT0BbZGyIxHdX5Vk36jw1p1jD7oiS6RIg1BWRKgj0HvmpX9U3Zjet8AZIGgWaRNa6emAhDkpz6ZLr1XGh057_r-On_1OxlD5zZTRDEY88c7s6qTXjEpEsXEEvXpyjVJFdyKxdCA",
             "link": "https://bit.ly/3GJYj2L ",
             "alt_data": "Computer networking: A top-down approach"
         }
