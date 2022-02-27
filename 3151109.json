@@ -27,12 +27,12 @@
     ],
     "Books": [
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjhDdyBEIzKtwo7KeMtaIW9PUGuvhyyyEpWnS4JiaWm8W6nbbdke5lpxHVZRHiUeAcELgigc9kcO3rQLtWkQyK_fc6ZNTYfIa5UhgA6rSdv2Jn3fGM2ccBi1FOHCYCFnex6Mxh9Cl5Upqv-Ih_WR1vDzErAT14ny7KVz7nFcp4_rAltOTDpdV14_CMGGA",
             "link": "https://bit.ly/3FgQBMV",
             "alt_data": "Introduction to Robotics by SK Saha"
         },
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhBGlTzgD3xy6Gl2CsYl_69qPRKzQd8CQFmB5XyZopYqVNBGoWEf4GcctW08qzHi5JO-gvkezzu3So1kTtaSNukVPlXAhxFN8ORkaUhC4INEShdeNXeM_vmvgx-dsSIovE9ioj7b3BDgU8vpovtx9EzmIJEswE5zFdiBe3RiXylDSD0fIGDVGL7-uYPnw",
             "link": "https://bit.ly/32k2EdG",
             "alt_data": "Programming and Customizing the AVR MicroController by Dhananjay Gadre"
         }

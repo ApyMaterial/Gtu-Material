@@ -31,14 +31,9 @@
     ],
     "Books": [
         {
-            "img": "",
+            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjPozTc7ECq7GWUi0INf0IFudtWHaGszfu7q9t5yhg1HCsnvfxDeshxtoWfOksiSA3tEj9qaoUhbpZSq4T_Dn8H8duXrHhDTSpFC7y3veGraqafKe9JeN-tcaedE6i4FCGZzWuWogGp3wzYVQJnCAy3ZRy4b7I8yojrn9ftSj810w5xbJlCpF6wUV1HKQ",
             "link": "https://bit.ly/3yHe5sf",
             "alt_data": "Adva. Electronic Communication"
-        },
-        {
-            "img": "",
-            "link": "https://bit.ly/3smO9kq",
-            "alt_data": "Modern Digital and Analog Comm. Sys"
         }
     ],
     "paper_solution": [],
