@@ -1,0 +1,40 @@
+{
+    "subject_name": "Internet of things",
+    "subjecet_code": "3171108",
+    "known_as": "IoT",
+    "syllabus": "https://bit.ly/3wDJlWp",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/33WFz23"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3KKu2n0"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3H6mTvd"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/33OplrS"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3AzACbg"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/IOTDarshan",
+            "alt_data": "Darshan"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

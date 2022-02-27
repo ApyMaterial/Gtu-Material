@@ -1,0 +1,34 @@
+{
+    "subject_name": "Testing and Verification",
+    "subjecet_code": "3171111",
+    "known_as": "TV",
+    "syllabus": "https://bit.ly/3xHuOu1",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3K3XDaG"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3K3iTgV"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3qnUHOl"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3GsIGgi"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3ttA2dP"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

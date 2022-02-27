@@ -1,0 +1,58 @@
+{
+    "subject_name": "Industrial Electrical Systems",
+    "subjecet_code": "3170920",
+    "known_as": "IES",
+    "syllabus": "https://bit.ly/3ehcbFG",
+    "old_paper": [
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3o5DY0O"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3H8H6R0 "
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3H5NUPm"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3IIXHLq"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3ACmEVZ"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3rSeWDf"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3KNVEHJ"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3KszM4L",
+            "alt_data": "darshan"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3rINRCG",
+            "alt_data": "IES KHANNA"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3FHsjLu",
+            "alt_data": "Bh. Note"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

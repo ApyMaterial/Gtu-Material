@@ -1,0 +1,42 @@
+{
+    "subject_name": "Information and Network Security",
+    "subjecet_code": "2170709",
+    "known_as": "INS",
+    "syllabus": "https://bit.ly/3DvyIsH",
+    "old_paper": [
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3paJS1o"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3E6OnhS"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3yGpJn4"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3q63gMm"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3mkIsQ1"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/32d7gCH"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3J59swL"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

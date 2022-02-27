@@ -1,0 +1,45 @@
+{
+    "subject_name": "Robotics and Automation",
+    "subjecet_code": "3151110",
+    "known_as": "R&A",
+    "syllabus": "https://bit.ly/2VwVWh6",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3qb0nKg"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3ql8bJg"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3emuvN3"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3spffHJ"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3JbgboP"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3FgQBMV",
+            "alt_data": "by SK Saha"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/32k2EdG",
+            "alt_data": "by Dhananjay Gadre"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

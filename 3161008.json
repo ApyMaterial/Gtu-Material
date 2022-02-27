@@ -1,0 +1,24 @@
+{
+    "subject_name": "Sensors and Transducers",
+    "subjecet_code": "3161008",
+    "known_as": "S&T",
+    "syllabus": "https://bit.ly/3wChVjK",
+    "old_paper": [],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3tGTMdU",
+            "alt_data": "Process Control Instrumentation Technology"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/34TNTzC",
+            "alt_data": "Measurement Systems : application and design"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

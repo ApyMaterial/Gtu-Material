@@ -1,0 +1,57 @@
+{
+    "subject_name": "Antennas and Propagation",
+    "subjecet_code": "2161003",
+    "known_as": "A&P",
+    "syllabus": "https://bit.ly/3eh9TGz",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3qlMEBM"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3nlnKjz"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3HYK4HO"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3qlRPSe"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3toY75g"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3Fh1P3b"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3reiRtI"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3GmlxvQ"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/33zsyLv",
+            "alt_data": "Antennas for all applications"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3nA2tCU",
+            "alt_data": "Antenna Theory: Analysis and Design"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

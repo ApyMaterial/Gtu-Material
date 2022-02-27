@@ -1,0 +1,29 @@
+{
+    "subject_name": "Control Systems",
+    "subjecet_code": "3131101",
+    "known_as": "CS",
+    "syllabus": "https://bit.ly/3kdD8xA",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/32cNwzo"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3Eekv3d ",
+            "alt_data": "by I.J.Nagrath"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3qeBJrZ",
+            "alt_data": "CS"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

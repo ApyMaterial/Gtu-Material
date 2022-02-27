@@ -1,0 +1,50 @@
+{
+    "subject_name": "Power Electronics",
+    "subjecet_code": "3151106",
+    "known_as": "PE",
+    "syllabus": "https://bit.ly/3efCwnF",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3J4UJlD"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3yOmWIu"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3mpTQuh"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/33RLtkH"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3qePIyh"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3yFVo8h",
+            "alt_data": "by Muhammad H Rashid"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3e6MZ4n",
+            "alt_data": "by Ned Mohan & Robbins"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3pe7CC4",
+            "alt_data": "by Abrahan Pressman"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

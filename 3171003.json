@@ -1,0 +1,42 @@
+{
+    "subject_name": "Digital Signal Processing",
+    "subjecet_code": "3171003",
+    "known_as": "DSP",
+    "syllabus": "https://bit.ly/3i8Zuhh",
+    "old_paper": [
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3qo5CHZ"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3tmHI1f"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/33a1fYe"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3zRa0Cl"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/34MRKyx"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3tnBXQN"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3GnZPYs"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

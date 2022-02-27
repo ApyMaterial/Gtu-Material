@@ -1,0 +1,62 @@
+{
+    "subject_name": "Fiber Optic Communication",
+    "subjecet_code": "3161005",
+    "known_as": "FOC",
+    "syllabus": "https://bit.ly/3einQnx",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3K4mHOY"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3r4NhOY"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3r9IQCz"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/34JdrQ2"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3ng8MeU"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3GkGAPp"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3th8SGV"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3HSo3Ks"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3nCMgNg",
+            "alt_data": "Optical Fiber Communications by Gerd Keiser"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3IhZQxz",
+            "alt_data": "Optical Fiber Communications by John M. Senior"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/32fvzA8",
+            "alt_data": "Fiber optic Communication Systems by G. Agrawal"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

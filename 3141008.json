@@ -1,0 +1,44 @@
+{
+    "subject_name": "Microprocessor & Microcontroller",
+    "subjecet_code": "3141008",
+    "known_as": "MAM",
+    "syllabus": "https://bit.ly/3AZhYcL",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3qkCdgm"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3mmiZ8P"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3EkqN15"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/30OxWck"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3FmEBtt"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3JcXFMU"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3mlhsQD",
+            "alt_data": "Muhammad Ali Mazidi, Sarmad Naimi and Sepehr Naimi,The AVR Microcontroller and Embedded Systems, Using Assembly and C, Pearson Education, 1st Edition, 2012"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

@@ -1,0 +1,52 @@
+{
+    "subject_name": "Web Technology",
+    "subjecet_code": "3161012",
+    "known_as": "WT",
+    "syllabus": "https://bit.ly/2U0zRr5",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3r4RYZ6"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3r9E4VK "
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/33uAI7q"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3tlEhbk"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/334IcP2"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3FpMOvT"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3njtA56"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3qjj13I"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3KoOeuw",
+            "alt_data": "Internet & World Wide Web. How to Program. Fourth Edition"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

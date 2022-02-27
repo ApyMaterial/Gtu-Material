@@ -1,0 +1,29 @@
+{
+    "subject_name": "Network Theory",
+    "subjecet_code": "3131103",
+    "known_as": "NT",
+    "syllabus": "https://bit.ly/3AZXHDH",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/32accIR"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3pg7hPa",
+            "alt_data": "Network Analysis :- By M.E Van Valkenburg PHI Publication"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3Fk2XUL",
+            "alt_data": "Network theory by alaxander and sadiku"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

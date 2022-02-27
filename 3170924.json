@@ -1,0 +1,52 @@
+{
+    "subject_name": "AI and Machine Learning",
+    "subjecet_code": "3170924",
+    "known_as": "AIML",
+    "syllabus": "https://bit.ly/3xEjONX",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3fXZUGJ"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3G3Dzlx"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3o219ca"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3rOjri4"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3rTkRYM"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/33WCIGn"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/33QboJZ"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3IHfdjj"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3fLtWgx",
+            "alt_data": "Bh. Note"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

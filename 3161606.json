@@ -1,0 +1,29 @@
+{
+    "subject_name": "Cryptography and Network Security",
+    "subjecet_code": "3161606",
+    "known_as": "CNS",
+    "syllabus": "https://bit.ly/3rUgE6Q",
+    "old_paper": [],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3KU3nV2",
+            "alt_data": "Pearson"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3rb6jVp",
+            "alt_data": "Willy India"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3HeweRE",
+            "alt_data": "McGrawHill"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

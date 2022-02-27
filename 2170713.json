@@ -1,0 +1,42 @@
+{
+    "subject_name": "Service Oriented Computing",
+    "subjecet_code": "2170713",
+    "known_as": "SOC",
+    "syllabus": "https://bit.ly/3036Zkv",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3GWk67c"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3q9iJLH"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3ebyEDw"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3EpNhy1"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3q8tr5b"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3EfklIN"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/33zTz12"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

@@ -1,0 +1,24 @@
+{
+    "subject_name": "Mobile Application Development",
+    "subjecet_code": "3161612",
+    "known_as": "MAD",
+    "syllabus": "https://bit.ly/3yGDHop",
+    "old_paper": [],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3rYwlKJ",
+            "alt_data": "Wrox"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3G9oLln",
+            "alt_data": "Pearson"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

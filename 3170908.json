@@ -1,0 +1,48 @@
+{
+    "subject_name": "Switchgear And Protection",
+    "subjecet_code": "3170908",
+    "known_as": "SGP",
+    "syllabus": "https://bit.ly/3xHngay",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3u8GtDd"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3FZu8na"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3g31ebm"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3u4IvnO"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3o23yUl"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/34hN2ss"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3KNAtpd"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3FUshQI",
+            "alt_data": "Bh. Note"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

@@ -1,0 +1,48 @@
+{
+    "subject_name": "Advanced Power Electronics",
+    "subjecet_code": "3170906",
+    "known_as": "APE",
+    "syllabus": "https://bit.ly/3xFWaRm",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://blyit./3u4VuWM"
+        },
+        {
+            "year": "Winter-20",
+            "link": "=https://bit.ly/3g4Etnn"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3KLdoDR"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3G5yJEg"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3KMkR5u"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3u4GyYs"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/33NOIKp"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3IpcKd7",
+            "alt_data": "Darshan"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

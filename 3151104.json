@@ -1,0 +1,49 @@
+{
+    "subject_name": "Analog and Digital Communication",
+    "subjecet_code": "3151104",
+    "known_as": "ADC",
+    "syllabus": "https://bit.ly/3r8v7vn",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3JeytWj"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3yTJzvo"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3H49qmZ"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3GZmoCo"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/3EjXjQY"
+        },
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3srBrAR"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3yHe5sf",
+            "alt_data": "Adva. Electronic Communication"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3smO9kq",
+            "alt_data": "Modern Digital and Analog Comm. Sys"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

@@ -1,0 +1,24 @@
+{
+    "subject_name": "VLSI Design",
+    "subjecet_code": "3151105",
+    "known_as": "VLSI",
+    "syllabus": "https://bit.ly/3hC5iRe",
+    "old_paper": [
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3J8AZxj"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/32cGQkD",
+            "alt_data": "VLSI design by Debaprasad"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

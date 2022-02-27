@@ -1,0 +1,50 @@
+{
+    "subject_name": "Compiler Design",
+    "subjecet_code": "2170701",
+    "known_as": "CD",
+    "syllabus": "https://bit.ly/3Dg1ahP",
+    "old_paper": [
+        {
+            "year": "Summer-18",
+            "link": "https://bit.ly/3FfE5x5"
+        },
+        {
+            "year": "Summer-19",
+            "link": "https://bit.ly/33xGJQT"
+        },
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3pbttda"
+        },
+        {
+            "year": "Summer-21",
+            "link": "https://bit.ly/3slprAQ"
+        },
+        {
+            "year": "Winter-17",
+            "link": "https://bit.ly/3J1VwUh"
+        },
+        {
+            "year": "Winter-18",
+            "link": "https://bit.ly/3GV08cY"
+        },
+        {
+            "year": "Winter-19",
+            "link": "https://bit.ly/3J29h5j"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/32k2Aus"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3q52RcU"
+        }
+    ],
+    "Books": [],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

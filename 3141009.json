@@ -1,0 +1,38 @@
+{
+    "subject_name": "Electromagnetic Theory",
+    "subjecet_code": "3141009",
+    "known_as": "ET",
+    "syllabus": "https://bit.ly/3hBAYWY",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3HkD9Zh"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3qkIWa2"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3mqRE5r",
+            "alt_data": "W. Hayt, Engineering Electromagnetics,Seventh Edition, McGraw Hill Education, 2012"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3ei9lQd",
+            "alt_data": "R.K. Shevgaonkar, Electromagnetic Waves, Tata McGraw Hill India, 2005"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3mocl1S",
+            "alt_data": "Fields and Waves in Communication Electronics, 3rd ed, Ramo, 1994"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

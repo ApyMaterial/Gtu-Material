@@ -1,0 +1,43 @@
+{
+    "subject_name": "Professional Ethics",
+    "subjecet_code": "3141007",
+    "known_as": "PE",
+    "syllabus": "https://bit.ly/3ySSI64",
+    "old_paper": [
+        {
+            "year": "Summer-20",
+            "link": "https://bit.ly/3JdRwQw"
+        },
+        {
+            "year": "Winter-20",
+            "link": "https://bit.ly/3yTo4KX"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/3Ja9VxE",
+            "alt_data": "PE Darshan"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3sshREO",
+            "alt_data": "Values _ Ethics book (Manna-Chakraborti) (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/32brH3e",
+            "alt_data": "Professional Ethics and Human Values by R.S NAAGARAZAN (APY Material)"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3Em5Xyi",
+            "alt_data": "PE Technical"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}

@@ -1,0 +1,34 @@
+{
+    "subject_name": "Antennas and Propagation",
+    "subjecet_code": "3161009",
+    "known_as": "ES",
+    "syllabus": "https://bit.ly/3r9gnwq",
+    "old_paper": [
+        {
+            "year": "Winter-21",
+            "link": "https://bit.ly/3niQGsE"
+        }
+    ],
+    "Books": [
+        {
+            "img": "",
+            "link": "https://bit.ly/353L7Ii",
+            "alt_data": "An Embedded Software Primer"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3IyQ4r9",
+            "alt_data": "Real Times Systems Theory and Practice"
+        },
+        {
+            "img": "",
+            "link": "https://bit.ly/3IgcfSD",
+            "alt_data": "Computers as Components Principles of Embedded Computing System Design"
+        }
+    ],
+    "paper_solution": [],
+    "assignments": "",
+    "imp_material": "",
+    "viva_questions": "",
+    "prectical": ""
+}
