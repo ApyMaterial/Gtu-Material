@@ -114,7 +114,7 @@
 }
 
 .card .card-header {
-  background: none;
+  /* background: none ; */
   padding: 0 0.9375rem;
   font-weight: 500;
   display: flex;
