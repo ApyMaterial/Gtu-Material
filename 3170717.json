@@ -9,5 +9,11 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/1fTaGqtVVLkYvH2UsstgK43pDmUYGLLRe/view?usp=sharing",
+            "alt_data": "CLOUD COMPUTING 3170717 GTU Technical "
+        }
+    ]
 }

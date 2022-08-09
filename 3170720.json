@@ -9,5 +9,11 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/13ebQmeYDpX72CQ8SglMnFAUgCG5ZLadH/view?usp=sharing",
+            "alt_data": "Information Security 3170720 GTU Technical "
+        }
+    ]
 }

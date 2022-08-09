@@ -9,5 +9,23 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2MMqxWCAIW9LjjxoIJ3r3eby3icMWUbeNyK3zlrjW_opy1T3izxfWWzfL542GXvxCKJ3yIcB7o4IuVAXQpk4abC5f50xuHng4ew_Vx8Z9HG2IDjjz1N4R9EMiFdAQLWbQbUjZJuj9AFQY1ZWy_uiFe7w0rBnTf5tlEfc2R6YfJ07XyyxpOehZfpjX/s320/Screenshot_98.png",
+            "link": "https://drive.google.com/file/d/18OkPZoln4D43wUZVXbVUf1ceCY-v2I6Q/view?usp=sharing",
+            "alt_data": "3170710 MCWC IMP Material "
+        },
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/1s5vsro5PTcJMnIHfVCLUFyg-9rTAdL1K/view?usp=sharing",
+            "alt_data": "3170710 MCWC McGraw hill "
+        },
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/12SnmaICKFf-Xh4UCv0CMnpgJtYGNCWC4/view?usp=sharing",
+            "alt_data": "3170710 MCWC Pearson"
+        }
+
+
+    ]
 }

@@ -9,5 +9,17 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/1neU7Pt0BnlMbS6uJB7wOyHT7hOLf6cn-/view?usp=sharing",
+            "alt_data": "Mobile Application Development 3170726 GTU Darshan IMP "
+        },
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/1yfO9yDlJSwaH1JUIOah2Xnckd35Uqj61/view",
+            "alt_data": "Mobile Application Development 3170726 Technical Book"
+        }
+        
+    ]
 }

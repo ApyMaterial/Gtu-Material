@@ -9,5 +9,11 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+        {
+            "img": "",
+            "link": "https://drive.google.com/file/d/1cfhLTED2_4Co1GeRfQuQYtHufgS6Knds/view?usp=sharing",
+            "alt_data": "Machine Learning 3170724 GTU Technical "
+        }
+    ]
 }
