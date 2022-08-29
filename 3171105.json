@@ -1,7 +1,7 @@
 {
     "subject_name": "Introduction of Artificial Intelligence",
     "subjecet_code": "3171105",
-    "known_as": "IAI",
+    "known_as": "AI",
     "syllabus": "https://bit.ly/3kbSu5Y",
     "old_paper": [
         {
@@ -9,7 +9,14 @@
             "link": "https://bit.ly/3fhLFvV"
         }
     ],
-    "Books": [],
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisa47gDfyTKwIDDc3-PiG39SSbHdo0zNWTXiQNVyxLH7wS158PxmRYizw3rSJF4PKcHSuNr3pEpLyYU1oNipHwiiYF0XR02F2mzKvWOnWCCWqLPbJWVWbbgLEIgFThKoClk5gTBon5QucWmqSccMz_IwT8-C2qAXiuzPQGaVEGEqe4C_QxUJ70RRJRHA/s320/Screenshot_104.png",
+            "link": "https://drive.google.com/drive/folders/1wg7rYSmYtQgBZEoZjCsF6jSiajs51C_F?usp=sharing",
+            "alt_data": "3171005 Introduction of Artificial Intelligence - Techknowledge publications sem 7"
+        }
+        
+    ],
     "paper_solution": [],
     "assignments": "",
     "imp_material": "",
