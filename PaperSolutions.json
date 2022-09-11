@@ -1,0 +1,74 @@
+{
+    "paper_list": [
+        {
+            "Subject_name": "Data Communication & Networking",
+            "Subject_code": "2171008",
+            "branch" : "EC",
+            "Year": "2016-Winter",
+            "Url": "https://bit.ly/3RBA9gj"
+        },
+        {
+            "Subject_name": "Data Communication & Networking",
+            "Subject_code": "2171008",
+            "branch" : "EC",
+            "Year": "2017-Summer",
+            "Url": "https://bit.ly/3RBA9gj"
+        },
+        {
+            "Subject_name": "Data Communication & Networking",
+            "Subject_code": "2171008",
+            "branch" : "EC",
+            "Year": "2017-Winter",
+            "Url": "https://bit.ly/3RBA9gj"
+        },
+        {
+            "Subject_name": "Data Communication & Networking",
+            "Subject_code": "2171008",
+            "branch" : "EC",
+            "Year": "2018-Summer",
+            "Url": "https://bit.ly/3RBA9gj"
+        },
+        {
+            "Subject_name": "Data Communication & Networking",
+            "Subject_code": "2171008",
+            "branch" : "EC",
+            "Year": "2018-Winter",
+            "Url": "https://bit.ly/3RBA9gj"
+        },
+        {
+            "Subject_name": "Data Communication & Networking",
+            "Subject_code": "2171008",
+            "branch" : "EC",
+            "Year": "2019-Summer",
+            "Url": "https://bit.ly/3RBA9gj"
+        },
+        {
+            "Subject_name": "Digital Singal Processing",
+            "Subject_code": "3171003",
+            "branch" : "EC/EE/IT",
+            "Year": "2016-Winter",
+            "Url": "https://bit.ly/3d2KzXl"
+        },
+        {
+            "Subject_name": "Digital Singal Processing",
+            "Subject_code": "3171003",
+            "branch" : "EC/EE/IT",
+            "Year": "2017-Summer",
+            "Url": "https://bit.ly/3d2KzXl"
+        },
+        {
+            "Subject_name": "Digital Singal Processing",
+            "Subject_code": "3171003",
+            "branch" : "EC/EE/IT",
+            "Year": "2017-Winter",
+            "Url": "https://bit.ly/3d2KzXl"
+        },
+        {
+            "Subject_name": "Digital Singal Processing",
+            "Subject_code": "3171003",
+            "branch" : "EC/EE/IT",
+            "Year": "2018-Summer",
+            "Url": "https://bit.ly/3d2KzXl"
+        }
+    ]
+}
