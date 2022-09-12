@@ -500,3 +500,17 @@ table {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+#paperSolutionTable_wrapper {
+  padding: 1rem;
+}
+
+#paperSolutionTable {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#paperSolutionTable_filter > input , #paperSolutionTable_length > select {
+  border: 1px solid #4a5568;
+}
+
