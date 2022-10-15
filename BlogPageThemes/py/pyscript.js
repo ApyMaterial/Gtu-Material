@@ -447,6 +447,7 @@ var app = (function () {
     function showError(msg) {
         const warning = document.createElement('div');
         warning.style.backgroundColor = 'LightCoral';
+        warning.style.display = 'none';
         warning.style.alignContent = 'center';
         warning.style.margin = '4px';
         warning.style.padding = '4px';
