@@ -1,6 +1,55 @@
 {
     "paper_list": [
         {
+            "Subject_name": "Probability and Statistics",
+            "Subject_code": "3130006",
+            "branch" : "CE/IT",
+            "Year": "2020-Summer",
+            "Url": "https://drive.google.com/file/d/1_udGcfklXAPZiSrZglE8EfHVERFCCfLV/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Probability and Statistics",
+            "Subject_code": "3130006",
+            "branch" : "CE/IT",
+            "Year": "2020-Winter",
+            "Url": "https://drive.google.com/file/d/18-W897hbixbLMnTYaCx94S4w2aicxXuS/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Operation Research",
+            "Subject_code": "3151910",
+            "branch" : "CE/IT",
+            "Year": "2018-Winter",
+            "Url": "https://drive.google.com/file/d/1yr09lB7YMyBRKiPEfbmzhhFX255LL2Dm/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Operation Research",
+            "Subject_code": "3151910",
+            "branch" : "CE/IT",
+            "Year": "2019-Winter",
+            "Url": "https://drive.google.com/file/d/15Uqb-EmDGXu2UJEF5r3FqFC-wCVwKS-5/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Data Structure",
+            "Subject_code": "3130704",
+            "branch" : "CE/IT",
+            "Year": "2020-Summer",
+            "Url": "https://drive.google.com/file/d/1B78qh5mf3kBwh_SCbw-s_ofdiAm7JxAM/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Building Constructiuon Technology",
+            "Subject_code": "3130607",
+            "branch" : "CE",
+            "Year": "2021-Summer",
+            "Url": "https://drive.google.com/file/d/1hlpPPOLXM9NanVX_BmHlmGzZoSyxuXPt/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Geotechnical Engineering",
+            "Subject_code": "3130606",
+            "branch" : "CE",
+            "Year": "2021-Summer",
+            "Url": "https://drive.google.com/file/d/1fqfkfFlYkekX_iVoTI8v1NCYskI90oxU/view?usp=sharing"
+        },
+        {
             "Subject_name": "Advanced Java Programming",
             "Subject_code": "3160707",
             "branch" : "CE/IT",
