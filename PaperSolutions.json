@@ -1,6 +1,41 @@
 {
     "paper_list": [
         {
+            "Subject_name": "CPDP",
+            "Subject_code": "3150004",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2016-Summer",
+            "Url": "https://www.gtuapymaterials.com/2021/12/contributor-personality-development.html"
+        },
+        {
+            "Subject_name": "CPDP",
+            "Subject_code": "3150004",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2017-Summer",
+            "Url": "https://www.gtuapymaterials.com/2021/12/contributor-personality-development.html"
+        },
+        {
+            "Subject_name": "CPDP",
+            "Subject_code": "3150004",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2018-Summer",
+            "Url": "https://www.gtuapymaterials.com/2021/12/contributor-personality-development.html"
+        },
+        {
+            "Subject_name": "CPDP",
+            "Subject_code": "3150004",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2019-Summer",
+            "Url": "https://www.gtuapymaterials.com/2021/12/contributor-personality-development.html"
+        },
+        {
+            "Subject_name": "Basic Engineering Drawing and Graphics",
+            "Subject_code": "3110013",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://www.youtube.com/watch?v=_hJ-u9RwH8Y"
+        },
+        {
             "Subject_name": "Probability and Statistics",
             "Subject_code": "3130006",
             "branch" : "CE/IT",

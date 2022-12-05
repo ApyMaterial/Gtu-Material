@@ -3,7 +3,16 @@
     "known_as": "CD",
     "subjecet_code": "3170701",
     "syllabus": "https://bit.ly/3MIWcyx",
-    "old_paper": [],
+    "old_paper": [
+        {
+            "year": "Summer-22",
+            "link": "https://gtu.ac.in/uploads/S2022/BE/3170701.pdf"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://gtu.ac.in/uploads/W2021/BE/3170701.pdf"
+        }
+    ],
     "paper_solution": "",
     "prectical": "",
     "viva_questions": "",

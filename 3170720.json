@@ -3,7 +3,16 @@
     "known_as": "IS",
     "subjecet_code": "3170720",
     "syllabus": "https://bit.ly/3tvq2zE",
-    "old_paper": [],
+    "old_paper": [
+        {
+            "year": "Summer-22",
+            "link": "https://gtu.ac.in/uploads/S2022/BE/3170720.pdf"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://gtu.ac.in/uploads/W2021/BE/3170720.pdf"
+        }
+    ],
     "paper_solution": [],
     "prectical": "",
     "viva_questions": "",
@@ -14,6 +23,17 @@
             "img": "",
             "download_link": "https://drive.google.com/file/d/13ebQmeYDpX72CQ8SglMnFAUgCG5ZLadH/view?usp=sharing",
             "alt_data": "Information Security 3170720 GTU Technical "
+        },
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/file/d/1fSaL1c75y8ZD45z7-vlgr6XnMC1Hj251/view?usp=share_link",
+            "alt_data": "Information Security 3170720 GTU Darshan PDF "
+        },
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/drive/folders/1zP8N60IH7WBDMX93atoyCs5epRIG1vzJ?usp=share_link",
+            "alt_data": "Information Security 3170720 GTU PPT ChapterWise Material "
         }
+        
     ]
 }

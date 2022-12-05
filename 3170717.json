@@ -3,7 +3,16 @@
     "known_as": "CC",
     "subjecet_code": "3170717",
     "syllabus": "https://bit.ly/3zx0NRB",
-    "old_paper": [],
+    "old_paper": [
+        {
+            "year": "Summer 22",
+            "link": "https://drive.google.com/file/d/13GqXqTiEqjRdBooKAbkjTYr_Ka2p_GZu/view?usp=sharing"
+        },
+        {
+            "year": "Winter 21",
+            "link": "https://drive.google.com/file/d/1PN8xjIdIQsBJ4dqTctSpetyeGtOPatkw/view?usp=sharing"
+        }
+    ],
     "paper_solution": [],
     "prectical": "",
     "viva_questions": "",
@@ -14,6 +23,11 @@
             "img": "",
             "download_link": "https://drive.google.com/file/d/1fTaGqtVVLkYvH2UsstgK43pDmUYGLLRe/view?usp=sharing",
             "alt_data": "CLOUD COMPUTING 3170717 GTU Technical "
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN5DeN7qFaX5ASeuoGc1eDgfbTDrMHtxgfXYpxF0VA_xB9DB4V9PpqN-CQdOCoYea-ElAy7pNwysYytlgDrEqBWwlcfkJ2-MwcKmWjiEJcTQPnFLQGnOs-MeGFbZCtW48JJLHKssXHqwC6mD-r1rgA9S_WJEK2esmEnMvW68kXsMGM96Fsq_oEyWO-vQ/s576/Screenshot_2.png",
+            "download_link": "https://drive.google.com/file/d/1dapROXIFXQP6JO8pz8RLnel1yCcFWDY7/view?usp=share_link",
+            "alt_data": "Cloud Computing Principles and Paradigms (Wiley Series on Parallel and Distributed Computing) 3170717 "
         }
     ]
 }

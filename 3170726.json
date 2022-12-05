@@ -3,17 +3,31 @@
     "known_as": "MAD",
     "subjecet_code": "3170726",
     "syllabus": "https://bit.ly/3QjPWAu",
-    "old_paper": [],
+    "old_paper": [
+        {
+            "year": "Summer-22",
+            "link": "https://gtu.ac.in/uploads/S2022/BE/3170726.pdf"
+        },
+        {
+            "year": "Winter-21",
+            "link": "https://gtu.ac.in/uploads/W2021/BE/3170726.pdf"
+        }
+    ],
     "paper_solution": [],
     "prectical": "",
     "viva_questions": "",
-    "imp_material": "",
+    "imp_material": "https://drive.google.com/file/d/1neU7Pt0BnlMbS6uJB7wOyHT7hOLf6cn-/view?usp=sharing",
     "assignments": "",
     "Books": [
         {
             "img": "",
             "download_link": "https://drive.google.com/file/d/1neU7Pt0BnlMbS6uJB7wOyHT7hOLf6cn-/view?usp=sharing",
             "alt_data": "Mobile Application Development 3170726 GTU Darshan IMP "
+        },
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/file/d/19wlE64v9NgUyIPTjm0Ed_mwJ4vI_iDMR/view?usp=share_link",
+            "alt_data": "Mobile Application Development 3170726 GTU IMP With Solution"
         },
         {
             "img": "",

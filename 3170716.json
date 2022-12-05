@@ -3,17 +3,45 @@
     "known_as": "AI",
     "subjecet_code": "3170716",
     "syllabus": "https://bit.ly/3ttzG61",
-    "old_paper": [],
+    "old_paper": [
+        {
+            "year": "Summer 22",
+            "link": "https://drive.google.com/file/d/1Q0F2QxxgsvFGaC61oRhFIgdT-xImlF8o/view?usp=sharing"
+        },
+        {
+            "year": "Winter 21",
+            "link": "https://drive.google.com/file/d/1bvqGmdXOKe1aOXp1NYg9vChcwLwgG47O/view?usp=sharing"
+        }],
     "paper_solution": [],
     "prectical": "",
     "viva_questions": "",
-    "imp_material": "",
+    "imp_material": "https://drive.google.com/file/d/1mV8DU-dFWa47mRyH0-vnrEQVZeB7C-Px/view?usp=share_link",
     "assignments": "",
     "Books": [
         {
             "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR01vsvSYSF2my_ZeP63Ww0h3IGSQsvJwurIjM-30lA22F4pt3kPtM_VnN5WZF35seP-NJYKgINPc1D8hCCh7UIITfmR8KBCaPV0PJI-Ek43puUhwWqsbMbKEhJL1EF33ZgnM9u3W_p-4jrQ5YUlr0AsL0vIQSdW6yTI1q0BWWLmBWNu_odVBZtYNF/s320/51CzrgaobNL.jpg",
             "download_link": "https://drive.google.com/file/d/18oeTVkK006HfA2ugKBlSFYx5obrG1fEX/view?usp=sharing",
             "alt_data": "3170716 Artificial Intelligence GTU Technical "
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR01vsvSYSF2my_ZeP63Ww0h3IGSQsvJwurIjM-30lA22F4pt3kPtM_VnN5WZF35seP-NJYKgINPc1D8hCCh7UIITfmR8KBCaPV0PJI-Ek43puUhwWqsbMbKEhJL1EF33ZgnM9u3W_p-4jrQ5YUlr0AsL0vIQSdW6yTI1q0BWWLmBWNu_odVBZtYNF/s320/51CzrgaobNL.jpg",
+            "download_link": "https://drive.google.com/file/d/1LbyLvlevYeizs6DyBRjSDcqEU9NLSjtn/view?usp=share_link",
+            "alt_data": "Ch 1 to 6 3170716 Artificial Intelligence GTU Technical "
+        },
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/file/d/1LbyLvlevYeizs6DyBRjSDcqEU9NLSjtn/view?usp=share_link",
+            "alt_data": "Ch 1 to 6 3170716 Artificial Intelligence GTU Technical "
+        },
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/file/d/1hvz9ikmfDspU2yYHSA3IZ_gq_bzTME_G/view?usp=share_link",
+            "alt_data": "Darshan IMP Only Question 3170716 Artificial Intelligence GTU Technical "
+        },
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/drive/folders/1kxZ9prk82l3JzPEx8L0w0coCcmnSlNAr?usp=share_link",
+            "alt_data": "Hand Written Notes 3170716 Artificial Intelligence GTU Technical "
         }
     ]
 }
