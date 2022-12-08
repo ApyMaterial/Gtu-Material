@@ -3067,6 +3067,10 @@ text-decoration: none !important;
           <b:widget-settings>
             <b:widget-setting name='content'>&lt;div style=&quot;text-align:center;&quot;&gt;
 
+&lt;div class=&quot;mb-2&quot;&gt;
+  &lt;a class=&quot;mb-5 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded&quot; href=&quot;#LinkList4&quot;&gt;Computer Sem 7 New Material&lt;/a&gt;
+&lt;/div&gt;
+
 &lt;script async src=&quot;https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6932631465457560&quot;
      crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
 &lt;!-- navbar single --&gt;
@@ -3296,6 +3300,37 @@ text-decoration: none !important;
     </b:if>
     <b:include name='quickedit'/>
   </div>
+</b:includable>
+  </b:widget>
+  <b:widget id='LinkList4' locked='false' title='Sem 7' type='LinkList'>
+    <b:widget-settings>
+      <b:widget-setting name='link-5'>https://www.gtuapymaterials.com/2022/12/gtu-artificial-intelligence-ai-3170716.html</b:widget-setting>
+      <b:widget-setting name='link-6'>https://www.gtuapymaterials.com/2022/12/gtu-cloud-computing-3170717-sem-7.html</b:widget-setting>
+      <b:widget-setting name='link-3'>https://www.gtuapymaterials.com/2022/12/gtu-information-security-is-3170720-sem.html</b:widget-setting>
+      <b:widget-setting name='link-4'>https://www.gtuapymaterials.com/2022/12/gtu-complier-design-cd-3170701-sem-7.html</b:widget-setting>
+      <b:widget-setting name='text-1'>MCWC - 3170710</b:widget-setting>
+      <b:widget-setting name='text-0'>ML - 3170724</b:widget-setting>
+      <b:widget-setting name='text-3'>IS - 3170720</b:widget-setting>
+      <b:widget-setting name='text-2'>MAD - 3170726</b:widget-setting>
+      <b:widget-setting name='text-5'>AI - 3170716</b:widget-setting>
+      <b:widget-setting name='text-4'>CD - 3170701</b:widget-setting>
+      <b:widget-setting name='text-6'>CC - 3170717</b:widget-setting>
+      <b:widget-setting name='sorting'>NONE</b:widget-setting>
+      <b:widget-setting name='link-1'>https://www.gtuapymaterials.com/2022/12/gtu-mobile-computing-and-wireless.html</b:widget-setting>
+      <b:widget-setting name='link-2'>https://www.gtuapymaterials.com/2022/12/gtu-mobile-application-development-mad.html</b:widget-setting>
+      <b:widget-setting name='link-0'>https://www.gtuapymaterials.com/2022/12/gtu-machine-learning-wp-3170724-sem-7.html</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+
+<b:if cond='data:title != &quot;&quot;'><h2><data:title/></h2></b:if>
+ <div class='widget-content'>
+   <ul>
+     <b:loop values='data:links' var='link'>
+       <li><a expr:href='data:link.target'><data:link.name/></a></li>
+     </b:loop>
+   </ul>
+   <b:include name='quickedit'/>
+ </div>
 </b:includable>
   </b:widget>
   <b:widget id='LinkList1' locked='false' title='Links' type='LinkList' version='1'>
