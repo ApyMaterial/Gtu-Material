@@ -29,7 +29,17 @@
             "link": "https://bit.ly/3r3LNok"
         }
     ],
-    "Books": [],
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBJYS8jSxMUkBQlakRVu6PQiL8QNBNUmL37jfs5xvjBbhuoKS44HyHNFj7OlsU4MWE4yRiuUXaepOQUOEg5xT6u16ofUM9ID_QAfSZdjW3LB4k06Zx8p4HKtxb51caVXJAaLVi-jGS4KNBONhcdrG6OpYie87JtM5VfmG30PS3rfh1XRAAS-uuvnaxgQ/s401/Screenshot%20from%202022-12-18%2016-47-24.png",
+            "download_link": "https://drive.google.com/file/d/1QMN1yLbA4B86efvJvPiIPzv46JAzmzrq/view?usp=share_link",
+            "alt_data": "Element of Electrical Design 3160918 GTU Mahajan "
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNEYxS43ROgJlOfrtgIMqXQRA9qp8lzzD2XNYZPEZYC5sdoepJpRBbqZ2oOfK9ZGxi38WV_zl3G5xxnqYIKxhZGIiFHZc4vJmTnfcRJmGB9i1H1_gbg3XckjIpoezP_Bk3tnDuCMzkr7DBr9Qwmf9xVSlmxPBgm1CBYTIGuZB0PrngUpLGJMH3Bj5ShQ/s320/Screenshot%20from%202022-12-18%2016-48-21.png",
+            "download_link": "https://drive.google.com/file/d/1k59kugGrmCWbTLT3bjQgC1MNBf8vcrdC/view?usp=share_link",
+            "alt_data": "Element of Electrical Design 3160918 GTU Atul "
+        }],
     "paper_solution": [],
     "assignments": null,
     "imp_material": null,

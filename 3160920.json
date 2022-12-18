@@ -29,7 +29,14 @@
             "link": "https://bit.ly/3qlIXvT"
         }
     ],
-    "Books": [],
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGikXP1zCJ-2TCyLm7qjlWpSH9vQCiih96BMi6bZi7YCxZGmIOeKAfLqCd7ytIQDetsr1P9NBrDz0QZ6yrxFABWyNrPEE3EdXb3YMdkz0AMQ_Fnx0OdlkSHNkBdrWpkWh6rUwV-T3QfFixIh3-Tu8GP3LkCLWJkhaDCpb6VhOAug7_phUEenkjpErn4Q/s320/Screenshot%20from%202022-12-18%2017-09-48.png",
+            "download_link": "https://drive.google.com/file/d/1U3OSCon-DP2rN6dXWReHM27PM7VKvAzW/view?usp=share_link",
+            "alt_data": "Inter Connected Power System 3160920 GTU Atul "
+        }
+    ],
+    
     "paper_solution": [],
     "assignments": null,
     "imp_material": null,

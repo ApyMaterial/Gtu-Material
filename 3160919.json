@@ -37,7 +37,18 @@
             "link": "https://bit.ly/3tkpVHW"
         }
     ],
-    "Books": [],
+    "Books": [
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7wkRPDaee5jSFjAR6myxemLwn0ZSgv5iCT9RwIu76C-4VB8DNqorqEjfTE4VOU4CJ6Kz-T2WRRSGtG6Mzp3NhyH-iD4PXiF_foiuMkkF38iUT2uhERC-ZBWPb9XPFLEJUtOdxjGZvJAcl42uzuXF5cg7zHSzeRa_z7Cjy5NLVKo7HIYo3sQX2Q7vVUg/s320/Screenshot%20from%202022-12-18%2016-42-57.png",
+            "download_link": "https://drive.google.com/file/d/1AlJW_RBDAIHOsxHeQCtZGESctOpL9hYt/view?usp=share_link",
+            "alt_data": "Electric Drives 3160919 GTU Technical "
+        },
+        {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNaTvF6iei7HeAR3CY92U-HFgZ2fWPRh-rIZQTOIceMWTsNozFxSK4emPw6AvW_OnkKGk8CWPOPE-ZdmTOUo7tIYaWkXIpqQmVymcxqVSmQLuo0w0eQu4oY-cIPPveTfSpJOQ1Qe1GIyoe45URbN4T1ffApANoaQ9PbW_XrZ_h9QFhv968P3XMPt7t7w/s320/Screenshot%20from%202022-12-18%2016-41-50.png",
+            "download_link": "https://drive.google.com/file/d/1uaum9X-ZQJKAOhCN6kDvv4LmSYpnNFD-/view?usp=share_link",
+            "alt_data": "Electric Drives 3160919 GTU Atul "
+        }
+         ],
     "paper_solution": [],
     "assignments": null,
     "imp_material": null,
