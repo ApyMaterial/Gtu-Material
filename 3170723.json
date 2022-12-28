@@ -18,5 +18,11 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+     {
+            "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7QiqV-3gQSD2Uo05Or8NFTSTjwszl2K-_GJsJyo9d1gQUz-Rz8yirtgq2cG1BD7Ni4MJK7MT_mQsJXg_Lv9GA7fN7j-sNBUz67z3-d-IfKPcnzOg9ztvLlLSKK8sk0nuTRK1pC791av6KddYmjMxh__QywT7EdCd9Y6lSpjoxg7nDiVcYdBun85V1JA/s320/Screenshot%20from%202022-12-28%2016-26-38.png",
+            "download_link": "https://drive.google.com/file/d/1Ns7Nw3QJPLeggefooyrW6QefnAuUuHcG/view?usp=share_link",
+            "alt_data": "Technical NLP"
+        }
+    ]
 }
