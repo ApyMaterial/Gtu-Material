@@ -1,6 +1,139 @@
 {
     "paper_list": [
         {
+            "Subject_name": "MCWC",
+            "Subject_code": "3170710",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1h3f_7ouAOUOC3aK1mblIp2zUAfZcZthu/view?usp=sharing"
+        },
+        {
+            "Subject_name": "MCWC",
+            "Subject_code": "3170710",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2018-Summer",
+            "Url": "https://drive.google.com/file/d/1MvU7VN202ESoLa_YYjxE4fqOgP7KW6TP/view?usp=sharing"
+        },
+        {
+            "Subject_name": "MCWC",
+            "Subject_code": "3170710",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2019-Winter",
+            "Url": "https://drive.google.com/file/d/10iiUdEtQbhXKxkl9hXcKBV9OazFzn4Cz/view?usp=sharing"
+        },
+        {
+            "Subject_name": "MAD  - Mobile Application Development",
+            "Subject_code": "3170726",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2019-Winter",
+            "Url": "https://drive.google.com/file/d/1lLby6Tck5CXiJsUHOrXoPuZGtA4fkEN5/view?usp=sharing"
+        },
+        {
+            "Subject_name": "MAD  - Mobile Application Development",
+            "Subject_code": "3170726",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://drive.google.com/file/d/10WysNRXcFLWZkjV_DlB_ZDKLpSI3A2Hc/view?usp=sharing"
+        },
+        {
+            "Subject_name": "IS - Information Security",
+            "Subject_code": "3170720",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021 - Winter ",
+            "Url": "https://drive.google.com/file/d/15H4k0kjXZZCAAZd7xQtT40m9QjR8-gfJ/view?usp=sharing"
+        },
+        {
+            "Subject_name": "IS - Information Security",
+            "Subject_code": "3170720",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022 - Summer ",
+            "Url": "https://drive.google.com/file/d/14ZCh_pdIKm4CZanzVf1h64vzs0rXDc5a/view?usp=sharing"
+        },
+        {
+            "Subject_name": "DS - Distributed System",
+            "Subject_code": "3170719",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1fojGUPD8KibYpSNu-Vx-MgZcGOW200yl/view?usp=sharing"
+        },
+        {
+            "Subject_name": "CD - Complier Design",
+            "Subject_code": "3170701",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2018-Winter",
+            "Url": "https://drive.google.com/file/d/1zk2tKp3P10gDLLo-nCBxmxm54Kov8pKn/view?usp=sharing"
+        },
+        {
+            "Subject_name": "CD - Complier Design",
+            "Subject_code": "3170701",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2020-Winter",
+            "Url": "https://drive.google.com/file/d/1LiFlSAWP5PcRN23n3PGNaToDHaYeeyBV/view?usp=sharing"
+        },
+        {
+            "Subject_name": "CD - Complier Design",
+            "Subject_code": "3170701",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://drive.google.com/file/d/12-kSsUAXzgnkg9M86DWb4j4El_n0E7-8/view?usp=sharing"
+        },
+        {
+            "Subject_name": "CD - Complier Design",
+            "Subject_code": "3170701",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1oz15CygyNQ0fJiu_rtAAczucVamH4psi/view?usp=sharing"
+        },
+        {
+            "Subject_name": "CD - Complier Design",
+            "Subject_code": "3170701",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1fiUNp-nU9PsjhmMmxwFNS8tVgvEa6cRp/view?usp=sharing"
+        },
+        {
+            "Subject_name": "CC- CLOUD COMPUTING",
+            "Subject_code": "3170717",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1wZe87hra0rWEU6LLfRIPKVc1stK8KDEQ/view?usp=share_link"
+        },
+        {
+            "Subject_name": "BDA - BIG DATA ANALYTICS",
+            "Subject_code": "3170722",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://drive.google.com/file/d/1HByd2pOGPJYEK0gXBHYjfqOtilvIdHr0/view?usp=sharing"
+        },
+        {
+            "Subject_name": "BDA - BIG DATA ANALYTICS",
+            "Subject_code": "3170722",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/15pHirxjsnMZrklmbjAj12SWjKQJaIr2A/view?usp=sharing"
+        },
+        {
+            "Subject_name": "BDA",
+            "Subject_code": "3170722",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/15pHirxjsnMZrklmbjAj12SWjKQJaIr2A/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Artificial Intelligence",
+            "Subject_code": "3170716",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://drive.google.com/file/d/1Zp04oyF-48sF0yI9qU2LzOftOxJ5e6Z2/view?usp=sharing"
+        },
+        {
+            "Subject_name": "Artificial Intelligence",
+            "Subject_code": "3170716",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1SFNAHHHN5PFVbidWagF3dyOjIvt6J9eL/view?usp=sharing"
+        },
+        {
             "Subject_name": "Digital Forensics",
             "Subject_code": "3170725",
             "branch" : "CE/IT/EC/EE",
