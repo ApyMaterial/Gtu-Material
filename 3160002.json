@@ -29,28 +29,7 @@
             "link": "https://bit.ly/31L5nNx"
         }
     ],
-    "paper_solution": [
-        {
-            "year" : "Summer-19",
-            "file_link": "https://drive.google.com/file/d/1L1CaxNWol0GQAnBSeII3LputvEOPz_Bg/view?usp=sharing",
-            "alt_data": "Summer-19 CPDP Solution"
-        },
-        {
-            "year" : "Summer-18",
-            "file_link": "https://drive.google.com/file/d/1L1CaxNWol0GQAnBSeII3LputvEOPz_Bg/view?usp=sharing",
-            "alt_data": "Summer-18 CPDP Solution"
-        },
-        {
-            "year" : "Summer-17",
-            "file_link": "https://drive.google.com/file/d/1L1CaxNWol0GQAnBSeII3LputvEOPz_Bg/view?usp=sharing",
-            "alt_data": "Summer-17 CPDP Solution"
-        },
-        {
-            "year" : "Summer-16",
-            "file_link": "https://drive.google.com/file/d/1L1CaxNWol0GQAnBSeII3LputvEOPz_Bg/view?usp=sharing",
-            "alt_data": "Summer-16 CPDP Solution"
-        }
-    ],
+    "paper_solution": "https://www.gtuapymaterials.com/2021/02/paper-solutions.html",
     "prectical": "",
     "viva_questions": "",
     "imp_material": "",

@@ -30,29 +30,7 @@
         }
 
     ],
-    "paper_solution": [
-        {
-            "year" : "Winter-16",
-            "file_link": "https://drive.google.com/file/d/1eyZ8CNVLwLyfzVXGLrnAuiQqEjM1S396/view?usp=sharing",
-            "alt_data": "Winter-16 DS Solution"
-        },
-        {
-            "year" : "Winter-17",
-            "file_link": "https://drive.google.com/file/d/1EvH-eMN6uKn4ABzcL6JThLcC6SdiAwXS/view?usp=sharing",
-            "alt_data": "Winter-17 DS Solution"
-        },
-        {
-            "year" : "Summer-18",
-            "file_link": "https://drive.google.com/file/d/1sEEF0rN10DCe-Bm22icSTmxaCB_KZEyq/view?usp=sharing",
-            "alt_data": "Summer-18 DS Solution"
-        },
-        {
-            "year" : "Summer-19",
-            "file_link": "https://drive.google.com/file/d/19rgei8MIXJ4k5qiye8Vbf5jeZeQ_iL47/view?usp=sharing",
-            "alt_data": "Summer-19 DS Solution"
-        }
-
-    ],
+    "paper_solution": "https://www.gtuapymaterials.com/2021/02/paper-solutions.html",
     "prectical": "",
     "viva_questions": "",
     "imp_material": "https://gtumaterialapy.blogspot.com/p/imp-of-ds-3130702.html",

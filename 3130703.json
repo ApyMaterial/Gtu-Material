@@ -31,39 +31,7 @@
        
 
     ],
-    "paper_solution": [
-        {
-            "year" : "Winter-17",
-            "file_link": "https://drive.google.com/file/d/11tAx2PZUgs_0I26pUFMydQIoSevNQB6Y/view?usp=sharing",
-            "alt_data": "Winter-17 DBMS Solution"
-        },
-        {
-            "year" : "Summer-17",
-            "file_link": "https://drive.google.com/file/d/1rp8edjCpf74K4WkNB7PvcsY4mXXUc6sz/view?usp=sharing",
-            "alt_data": "Summer-17 DBMS Solution"
-        },
-        {
-            "year" : "Winter-16",
-            "file_link": "https://drive.google.com/file/d/1I1RAKX5EZKvVlD86DRXY0G92N1-LxWrI/view?usp=sharing",
-            "alt_data": "Winter-16 DBMS Solution"
-        },
-        {
-            "year" : "Summer-16",
-            "file_link": "https://drive.google.com/file/d/1t7pht1LncwYukb7olOobSqOwMC1xCdP9/view?usp=sharing",
-            "alt_data": "Summer-16 DBMS Solution"
-        },
-        {
-            "year" : "Winter-15",
-            "file_link": "https://drive.google.com/file/d/1Vlc8CrK63hzF_f1QY0DZw8Pa7By1uCBy/view?usp=sharing",
-            "alt_data": "Winter-15 DBMS Solution"
-        },
-        {
-            "year" : "Winter-14",
-            "file_link": "https://drive.google.com/file/d/17fgfnX1cSkQDKTarA3iDlPQL5Akr6a0h/view?usp=sharing",
-            "alt_data": "Winter-14 DBMS Solution"
-        }
-
-    ],
+    "paper_solution":"https://www.gtuapymaterials.com/2021/02/paper-solutions.html",
     "prectical": "",
     "viva_questions": "",
     "imp_material": "https://gtumaterialapy.blogspot.com/p/imp-of-dbms-3130703.html",
