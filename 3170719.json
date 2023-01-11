@@ -18,5 +18,11 @@
     "viva_questions": "",
     "imp_material": "",
     "assignments": "",
-    "Books": []
+    "Books": [
+        {
+            "img": "",
+            "download_link": "https://drive.google.com/file/d/1ls3aMhWI765Uza9BU3XYozSQPK-wvMZ0/view?usp=sharing",
+            "alt_data": "Distributed System 3170719 GTU Technical "
+        }
+    ]
 }
