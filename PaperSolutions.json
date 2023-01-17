@@ -1,6 +1,55 @@
 {
     "paper_list": [
         {
+            "Subject_name": "IOT and applications",
+            "Subject_code": "3160716",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Winter",
+            "Url": "https://drive.google.com/file/d/1jKFsWVFOQQ7jQZO73ZxSw33Pea1OzeaA/view?usp=share_link"
+        },
+        {
+            "Subject_name": "Signals and Systems",
+            "Subject_code": "3150912",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Summer",
+            "Url": "https://drive.google.com/file/d/1C4U7srdaCWj62KZBOVUb1_PFRQIlXaDZ/view?usp=share_link"
+        },
+        {
+            "Subject_name": "Signals and Systems",
+            "Subject_code": "3150912",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Summer",
+            "Url": "https://drive.google.com/file/d/1h2Dzvf4mWicaBRdWYi3UH9MDjXop1cJu/view?usp=share_link"
+        },
+        {
+            "Subject_name": "Signals and Systems",
+            "Subject_code": "3150912",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1SGzJhe5cb6AWQ2s-ChjfcuS4-oWRf0W8/view?usp=share_link"
+        },
+        {
+            "Subject_name": "Computer Networks",
+            "Subject_code": "3150710",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2021-Winter",
+            "Url": "https://drive.google.com/file/d/1vNqYm77R27orjsZ1KIXbRG7dvLfZoJm4/view?usp=share_link"
+        },
+        {
+            "Subject_name": "Computer Networks",
+            "Subject_code": "3150710",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://drive.google.com/file/d/1yz9cth_D8SJbtROLvmxMfp093zcuWV9r/view?usp=share_link"
+        },
+        {
+            "Subject_name": "Machine Learning",
+            "Subject_code": "3170724",
+            "branch" : "CE/IT/EC/EE",
+            "Year": "2022-Summer",
+            "Url": "https://drive.google.com/file/d/1vAGAdeie9er_oR1Cunip2UjpzVhS1yTq/view?usp=share_link"
+        },
+        {
             "Subject_name": "Machine Learning",
             "Subject_code": "3170724",
             "branch" : "CE/IT/EC/EE",
