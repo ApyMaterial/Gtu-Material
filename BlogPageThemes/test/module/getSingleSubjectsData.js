@@ -1,5 +1,5 @@
   
-  async function GetSingleSubjectsData(subjectCode) {
+  async function testGetSingleSubjectsData(subjectCode) {
     requestURL = "https://apymaterial.github.io/Gtu-Material/" + subjectCode + ".json";
     request = new Request(requestURL);
     response = await fetch(request);
@@ -10,4 +10,4 @@
     }
   }
 
-  export default GetSingleSubjectsData ;
+  export default testGetSingleSubjectsData ;
