@@ -1,5 +1,10 @@
 # Gtu-Material
 
+// Pull from development branch
+// update code
+// create pull request
+
+
 ## For Old Papers Post
 ---
 
