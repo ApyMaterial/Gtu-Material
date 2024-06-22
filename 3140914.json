@@ -1,40 +1,68 @@
 {
-    "subject_name": "Power System- I",
-    "known_as": "PSI",
-    "subjecet_code": "3140914",
-    "syllabus": "https://leher.to/bit/ly/AmLgkg",
-    "old_paper": [
-        {
-            "year": "Summer-18",
-            "link": "https://leher.to/bit/ly/yxhzwo"
-        },
-        {
-            "year": "Winter-18",
-            "link": "https://leher.to/bit/ly/KcTGWx"
-        },
-        {
-            "year": "Summer-19",
-            "link": "https://leher.to/bit/ly/U3fBaf"
-        },
-        {
-            "year": "Winter-19",
-            "link": "https://leher.to/bit/ly/75JSRr"
-        },
-        {
-            "year": "Winter-20",
-            "link": "https://leher.to/bit/ly/936Yca"
-        }
-    ],
-    "paper_solution": "https://www.gtuapymaterials.com/2022/11/gtu-all-subjects-paper-solution.html",
-    "prectical": "",
-    "viva_questions": "",
-    "imp_material": "",
-    "assignments": "",
-    "Books": [
-        {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgKu1zf1wm_eGLwiV9lWUtct9Jhv6OY0xvn_3Dfd0bi-77EmVEvvDvcVT6SoreOQ2m92Tdsv1H_CEJy8rXNLbUGI_mn07BXkVpEoubuEP1nQD39Bykj-f3tXMNeEI3VBIu8EWUYOHHOjLsU5rbhAxQZI0nAmJTzOguH71eI0f8TqEQQ0qetw8ZJH9uK5A",
-            "download_link": "https://leher.to/bit/ly/VrKW4w",
-            "alt_data": "Power-System-Analysis-by-Hadi-Saadat-Electrical-Engineering-libre, McGraw Hill Education, 2013."
-        }
-    ]
+  "subject_name": "Power System- I",
+  "known_as": "PSI",
+  "subjecet_code": "3140914",
+  "syllabus": "https://leher.to/bit/ly/AmLgkg",
+  "old_paper": [
+    {
+      "year": "Winter-2023",
+      "link": "https://gtu.ac.in/uploads/S2023/BE/3140914.pdf"
+    },
+    {
+      "year": "Summer-2023",
+      "link": "https://gtu.ac.in/uploads/W2023/BE/3140914.pdf"
+    },
+    {
+      "year": "Winter-2022",
+      "link": "https://gtu.ac.in/uploads/S2022/BE/3140914.pdf"
+    },
+    {
+      "year": "Summer-2022",
+      "link": "https://gtu.ac.in/uploads/W2022/BE/3140914.pdf"
+    },
+    {
+      "year": "Winter-2021",
+      "link": "https://gtu.ac.in/uploads/S2021/BE/3140914.pdf"
+    },
+    {
+      "year": "Summer-2021",
+      "link": "https://gtu.ac.in/uploads/W2021/BE/3140914.pdf"
+    },
+    {
+      "year": "Summer-2020",
+      "link": "https://gtu.ac.in/uploads/W2020/BE/3140914.pdf"
+    },
+    {
+      "year": "Summer-18",
+      "link": "https://leher.to/bit/ly/yxhzwo"
+    },
+    {
+      "year": "Winter-18",
+      "link": "https://leher.to/bit/ly/KcTGWx"
+    },
+    {
+      "year": "Summer-19",
+      "link": "https://leher.to/bit/ly/U3fBaf"
+    },
+    {
+      "year": "Winter-19",
+      "link": "https://leher.to/bit/ly/75JSRr"
+    },
+    {
+      "year": "Winter-20",
+      "link": "https://leher.to/bit/ly/936Yca"
+    }
+  ],
+  "paper_solution": "https://www.gtuapymaterials.com/2022/11/gtu-all-subjects-paper-solution.html",
+  "prectical": "",
+  "viva_questions": "",
+  "imp_material": "",
+  "assignments": "",
+  "Books": [
+    {
+      "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgKu1zf1wm_eGLwiV9lWUtct9Jhv6OY0xvn_3Dfd0bi-77EmVEvvDvcVT6SoreOQ2m92Tdsv1H_CEJy8rXNLbUGI_mn07BXkVpEoubuEP1nQD39Bykj-f3tXMNeEI3VBIu8EWUYOHHOjLsU5rbhAxQZI0nAmJTzOguH71eI0f8TqEQQ0qetw8ZJH9uK5A",
+      "download_link": "https://leher.to/bit/ly/VrKW4w",
+      "alt_data": "Power-System-Analysis-by-Hadi-Saadat-Electrical-Engineering-libre, McGraw Hill Education, 2013."
+    }
+  ]
 }
