@@ -1,44 +1,72 @@
 {
-    "subject_name": "Electrical Machine- I",
-    "known_as": "EMI",
-    "subjecet_code": "3140913",
-    "syllabus": "https://leher.to/bit/ly/IfBFAp",
-    "old_paper": [
-        {
-            "year": "Winter-17",
-            "link": "https://leher.to/bit/ly/A72Q29"
-        },
-        {
-            "year": "Summer-18",
-            "link": "https://leher.to/bit/ly/uqtqgK"
-        },
-        {
-            "year": "Winter-18",
-            "link": "https://leher.to/bit/ly/UNdcyP"
-        },
-        {
-            "year": "Summer-19",
-            "link": "https://leher.to/bit/ly/2EoNH4"
-        },
-        {
-            "year": "Winter-19",
-            "link": "https://leher.to/bit/ly/3jLM9k"
-        },
-        {
-            "year": "Winter-20",
-            "link": "https://leher.to/bit/ly/ISfuRn"
-        }
-    ],
-    "paper_solution": "https://www.gtuapymaterials.com/2022/11/gtu-all-subjects-paper-solution.html",
-    "prectical": "",
-    "viva_questions": "",
-    "imp_material": "",
-    "assignments": "",
-    "Books": [
-        {
-            "img": "https://blogger.googleusercontent.com/img/a/AVvXsEil22ah500TLp0oxDsLXAOu0dl482qCK67XJSTBOHrgkyaJ-gwHuHAoPXyyEGmdHeIA8wEYKzq49Toac3QERF6NpwLrqCxdoqJoroaoxiWn5YOn6JxH26OTMnjS0laERdETrfC5Z78mmvQKlznbAE1eY-Cva-UbrKnFSMyVd4liqEqDmbuvdK4SsdbW1g",
-            "download_link": "https://leher.to/bit/ly/Kit6pY",
-            "alt_data": "E. Fitzgerald and C. Kingsley, 'Electric Machinery', New York, McGraw Hill Education, 2013."
-        }
-    ]
+  "subject_name": "Electrical Machine- I",
+  "known_as": "EMI",
+  "subjecet_code": "3140913",
+  "syllabus": "https://leher.to/bit/ly/IfBFAp",
+  "old_paper": [
+    {
+      "year": "Winter-2023",
+      "link": "https://gtu.ac.in/uploads/S2023/BE/3140913.pdf"
+    },
+    {
+      "year": "Summer-2023",
+      "link": "https://gtu.ac.in/uploads/W2023/BE/3140913.pdf"
+    },
+    {
+      "year": "Winter-2022",
+      "link": "https://gtu.ac.in/uploads/S2022/BE/3140913.pdf"
+    },
+    {
+      "year": "Summer-2022",
+      "link": "https://gtu.ac.in/uploads/W2022/BE/3140913.pdf"
+    },
+    {
+      "year": "Winter-2021",
+      "link": "https://gtu.ac.in/uploads/S2021/BE/3140913.pdf"
+    },
+    {
+      "year": "Summer-2021",
+      "link": "https://gtu.ac.in/uploads/W2021/BE/3140913.pdf"
+    },
+    {
+      "year": "Summer-2020",
+      "link": "https://gtu.ac.in/uploads/W2020/BE/3140913.pdf"
+    },
+    {
+      "year": "Winter-17",
+      "link": "https://leher.to/bit/ly/A72Q29"
+    },
+    {
+      "year": "Summer-18",
+      "link": "https://leher.to/bit/ly/uqtqgK"
+    },
+    {
+      "year": "Winter-18",
+      "link": "https://leher.to/bit/ly/UNdcyP"
+    },
+    {
+      "year": "Summer-19",
+      "link": "https://leher.to/bit/ly/2EoNH4"
+    },
+    {
+      "year": "Winter-19",
+      "link": "https://leher.to/bit/ly/3jLM9k"
+    },
+    {
+      "year": "Winter-20",
+      "link": "https://leher.to/bit/ly/ISfuRn"
+    }
+  ],
+  "paper_solution": "https://www.gtuapymaterials.com/2022/11/gtu-all-subjects-paper-solution.html",
+  "prectical": "",
+  "viva_questions": "",
+  "imp_material": "",
+  "assignments": "",
+  "Books": [
+    {
+      "img": "https://blogger.googleusercontent.com/img/a/AVvXsEil22ah500TLp0oxDsLXAOu0dl482qCK67XJSTBOHrgkyaJ-gwHuHAoPXyyEGmdHeIA8wEYKzq49Toac3QERF6NpwLrqCxdoqJoroaoxiWn5YOn6JxH26OTMnjS0laERdETrfC5Z78mmvQKlznbAE1eY-Cva-UbrKnFSMyVd4liqEqDmbuvdK4SsdbW1g",
+      "download_link": "https://leher.to/bit/ly/Kit6pY",
+      "alt_data": "E. Fitzgerald and C. Kingsley, 'Electric Machinery', New York, McGraw Hill Education, 2013."
+    }
+  ]
 }
