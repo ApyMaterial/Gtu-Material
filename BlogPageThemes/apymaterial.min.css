@@ -514,3 +514,7 @@ table {
   border: 1px solid #4a5568;
 }
 
+#dismiss-button {
+  display: none !important;
+}
+
